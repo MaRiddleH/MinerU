@@ -1,0 +1,2800 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        120,
+                        134,
+                        509,
+                        166
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                134,
+                                509,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        134,
+                                        509,
+                                        166
+                                    ],
+                                    "type": "text",
+                                    "content": "Effective and Complete Decomposition of Per- and Polyfluoroalkyl Substances and Byproducts in Incineration"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        212,
+                        202,
+                        416,
+                        216
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                202,
+                                416,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        202,
+                                        416,
+                                        216
+                                    ],
+                                    "type": "text",
+                                    "content": "Feng 'Frank' Xiao, Ph.D., P.E., M.ASCE"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        257,
+                        217,
+                        336,
+                        227
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                217,
+                                336,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        217,
+                                        336,
+                                        227
+                                    ],
+                                    "type": "text",
+                                    "content": "Associate Professor"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        194,
+                        228,
+                        401,
+                        239
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                194,
+                                228,
+                                401,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        228,
+                                        401,
+                                        239
+                                    ],
+                                    "type": "text",
+                                    "content": "Department of Civil and Environmental Engineering"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        253,
+                        239,
+                        342,
+                        249
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                253,
+                                239,
+                                342,
+                                249
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        253,
+                                        239,
+                                        342,
+                                        249
+                                    ],
+                                    "type": "text",
+                                    "content": "University of Missouri"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        257,
+                        250,
+                        338,
+                        260
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                250,
+                                338,
+                                260
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        250,
+                                        338,
+                                        260
+                                    ],
+                                    "type": "text",
+                                    "content": "E2509 Lafferre Hall"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        254,
+                        261,
+                        339,
+                        271
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                254,
+                                261,
+                                339,
+                                271
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        254,
+                                        261,
+                                        339,
+                                        271
+                                    ],
+                                    "type": "text",
+                                    "content": "Columbia, MO 65211"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        232,
+                        273,
+                        362,
+                        283
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                232,
+                                273,
+                                362,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        232,
+                                        273,
+                                        362,
+                                        283
+                                    ],
+                                    "type": "text",
+                                    "content": "Email: Feng.Xiao@Missouri.edu"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        254,
+                        284,
+                        340,
+                        293
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                254,
+                                284,
+                                340,
+                                293
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        254,
+                                        284,
+                                        340,
+                                        293
+                                    ],
+                                    "type": "text",
+                                    "content": "Phone: 573.882.6408"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        148,
+                        308,
+                        480,
+                        321
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                148,
+                                308,
+                                480,
+                                321
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        148,
+                                        308,
+                                        480,
+                                        321
+                                    ],
+                                    "type": "text",
+                                    "content": "KEYWORDS: PFAS, PPOA, PFOS, GenX, Temperature, Solid Waste"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        279,
+                        335,
+                        349,
+                        349
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                279,
+                                335,
+                                349,
+                                349
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        279,
+                                        335,
+                                        349,
+                                        349
+                                    ],
+                                    "type": "text",
+                                    "content": "Prepared for:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        175,
+                        349,
+                        418,
+                        360
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                175,
+                                349,
+                                418,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        175,
+                                        349,
+                                        418,
+                                        360
+                                    ],
+                                    "type": "text",
+                                    "content": "Environmental Research and Education Foundation"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        249,
+                        386,
+                        378,
+                        397
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                249,
+                                386,
+                                378,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        386,
+                                        378,
+                                        397
+                                    ],
+                                    "type": "text",
+                                    "content": "Year of Publication: 2025"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        267,
+                        481,
+                        361,
+                        496
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                267,
+                                481,
+                                361,
+                                496
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        267,
+                                        481,
+                                        361,
+                                        496
+                                    ],
+                                    "type": "text",
+                                    "content": "FINAL REPORT"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        267,
+                        528,
+                        361,
+                        542
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                267,
+                                528,
+                                361,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        267,
+                                        528,
+                                        361,
+                                        542
+                                    ],
+                                    "type": "text",
+                                    "content": "Prepared for the"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        169,
+                        544,
+                        459,
+                        558
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                169,
+                                544,
+                                459,
+                                558
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        169,
+                                        544,
+                                        459,
+                                        558
+                                    ],
+                                    "type": "text",
+                                    "content": "Environmental Research and Education Foundation"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        134,
+                        604,
+                        255,
+                        636
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                134,
+                                604,
+                                255,
+                                636
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        134,
+                                        604,
+                                        255,
+                                        636
+                                    ],
+                                    "type": "text",
+                                    "content": "EREF"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "bbox": [
+                        276,
+                        595,
+                        494,
+                        628
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                276,
+                                595,
+                                494,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        276,
+                                        595,
+                                        494,
+                                        628
+                                    ],
+                                    "type": "text",
+                                    "content": "Environmental Research & Education Foundation"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        276,
+                        632,
+                        394,
+                        647
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                276,
+                                632,
+                                394,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        276,
+                                        632,
+                                        394,
+                                        647
+                                    ],
+                                    "type": "text",
+                                    "content": "www.erefdn.org"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        415,
+                        745,
+                        524,
+                        758
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                745,
+                                524,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        745,
+                                        524,
+                                        758
+                                    ],
+                                    "type": "text",
+                                    "content": "Progress report_Page 1"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        242,
+                        105,
+                        353,
+                        120
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                242,
+                                105,
+                                353,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        242,
+                                        105,
+                                        353,
+                                        120
+                                    ],
+                                    "type": "text",
+                                    "content": "Executive Summary"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        69,
+                        128,
+                        526,
+                        196
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                128,
+                                526,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        128,
+                                        526,
+                                        196
+                                    ],
+                                    "type": "text",
+                                    "content": "The study, led by Dr. Feng 'Frank' Xiao from the University of Missouri, investigates various PFAS compounds under different incineration conditions to understand their stability and decomposition mechanisms better. This research is timely as it addresses the persistent challenge posed by per- and polyfluoroalkyl substances (PFAS) in municipal solid wastes, particularly in groundwater and soil impacted by industrial activities and waste disposal practices."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        69,
+                        201,
+                        527,
+                        309
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                201,
+                                527,
+                                309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        201,
+                                        527,
+                                        309
+                                    ],
+                                    "type": "text",
+                                    "content": "The report details the conditions under which complete degradation of PFAS occurs, emphasizing the temperature-time profiles that achieve high degradation efficiencies. For example, higher temperatures (up to "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        201,
+                                        527,
+                                        309
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "1000^{\\circ}\\mathrm{C}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        201,
+                                        527,
+                                        309
+                                    ],
+                                    "type": "text",
+                                    "content": ") significantly expedite the degradation process, with all studied PFAS achieving nearly total decomposition within minutes, if not seconds. Findings of this kind are crucial for the development of more effective and efficient waste treatment technologies that can operate at optimal temperatures, thus minimizing the environmental impact of PFAS. The study provides a scientific basis for these operational improvements and also offers a benchmark for regulatory standards concerning the thermal treatment of PFAS."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        69,
+                        315,
+                        526,
+                        436
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                315,
+                                526,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        526,
+                                        436
+                                    ],
+                                    "type": "text",
+                                    "content": "Moreover, we focused on the post-treatment of products of incomplete degradation (PIDs) of PFAS, in particular perfluoroalkanes and perfluoroalkenes. We demonstrated that near-complete degradation "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        526,
+                                        436
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(\\geq 99\\%)"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        526,
+                                        436
+                                    ],
+                                    "type": "text",
+                                    "content": " of unsaturated perfluorocarbons (PFCs) like "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        526,
+                                        436
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathrm{C_7F_{14}}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        526,
+                                        436
+                                    ],
+                                    "type": "text",
+                                    "content": " and "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        526,
+                                        436
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathrm{C_8F_{16}}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        526,
+                                        436
+                                    ],
+                                    "type": "text",
+                                    "content": " is achievable at temperatures above "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        526,
+                                        436
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "300^{\\circ}\\mathrm{C}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        526,
+                                        436
+                                    ],
+                                    "type": "text",
+                                    "content": ", forming organofluorine compounds as the dominant pathway, whereas saturated PFCs require temperatures exceeding "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        526,
+                                        436
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "500^{\\circ}\\mathrm{C}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        526,
+                                        436
+                                    ],
+                                    "type": "text",
+                                    "content": " for similar results. The use of granular activated carbon significantly enhances the degradation efficiency, particularly at lower temperatures, by influencing the pathways and increasing the yield of fluorine. By integrating these findings into their operations, facilities can achieve higher degradation efficiencies, thereby reducing the long-term environmental footprint of PFAS disposal."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        69,
+                        441,
+                        526,
+                        550
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                441,
+                                526,
+                                550
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        441,
+                                        526,
+                                        550
+                                    ],
+                                    "type": "text",
+                                    "content": "Based on the results of this project, incineration appears to be a promising approach for PFAS waste management. However, it is important to note that existing incineration systems were not specifically designed to handle PFAS-containing waste. Our previous studies have shown that certain PFAS compounds can become volatile at moderate temperatures. Therefore, suboptimal incinerator operation may lead to the release of PFAS from the system. Sustainability and efficiency depend on addressing PIDs, potentially by implementing emission control systems to capture fugitive emissions, though such measures would require a thorough cost-benefit analysis and appropriate regulatory support."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        69,
+                        555,
+                        526,
+                        662
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                555,
+                                526,
+                                662
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        555,
+                                        526,
+                                        662
+                                    ],
+                                    "type": "text",
+                                    "content": "In conclusion, the report highlights the potential applications of its findings in improving solid waste management practices through the adoption of scientifically backed thermal treatment strategies. By providing a comprehensive analysis of PFAS degradation under various conditions, it equips stakeholders with the knowledge to implement more effective waste treatment solutions aimed at limiting the environmental circulation of PFAS, thereby contributing to environmental protection and public health. The report advocates for continued research into PFAS treatment technologies, underscoring the importance of innovation in tackling one of the most persistent and challenging pollutants in modern waste management."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        416,
+                        745,
+                        526,
+                        758
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                416,
+                                745,
+                                526,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        416,
+                                        745,
+                                        526,
+                                        758
+                                    ],
+                                    "type": "text",
+                                    "content": "Progress report_Page 2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        67,
+                        134,
+                        182,
+                        149
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                134,
+                                182,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        134,
+                                        182,
+                                        149
+                                    ],
+                                    "type": "text",
+                                    "content": "Table of Contents"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        103,
+                        153,
+                        526,
+                        185
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 3,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                103,
+                                153,
+                                526,
+                                167
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        153,
+                                        526,
+                                        167
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                103,
+                                                153,
+                                                526,
+                                                167
+                                            ],
+                                            "type": "text",
+                                            "content": "INTRODUCTION 4"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                103,
+                                170,
+                                525,
+                                185
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        170,
+                                        525,
+                                        185
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                103,
+                                                170,
+                                                525,
+                                                185
+                                            ],
+                                            "type": "text",
+                                            "content": "RESULTS AND DISCUSSION 6"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        103,
+                        189,
+                        525,
+                        204
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                103,
+                                189,
+                                525,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        189,
+                                        525,
+                                        204
+                                    ],
+                                    "type": "text",
+                                    "content": "Chapter 1. Thermal Destruction of PFAS at Incineration Temperatures 6"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        67,
+                        208,
+                        526,
+                        290
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 9,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                103,
+                                208,
+                                525,
+                                222
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        208,
+                                        525,
+                                        222
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                103,
+                                                208,
+                                                525,
+                                                222
+                                            ],
+                                            "type": "text",
+                                            "content": "1.1. Incineration of PFCAs 6"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                226,
+                                526,
+                                240
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        226,
+                                        526,
+                                        240
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                104,
+                                                226,
+                                                526,
+                                                240
+                                            ],
+                                            "type": "text",
+                                            "content": "1.2. Incineration of PFSAs, PFAES, and FTS 7"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                244,
+                                526,
+                                259
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        244,
+                                        526,
+                                        259
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                104,
+                                                244,
+                                                526,
+                                                259
+                                            ],
+                                            "type": "text",
+                                            "content": "1.3. Incineration of PFECAs and FOSAAs 10"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                262,
+                                525,
+                                290
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        262,
+                                        525,
+                                        290
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                67,
+                                                262,
+                                                525,
+                                                290
+                                            ],
+                                            "type": "text",
+                                            "content": "1.4. Minimum incineration time required to achieve "
+                                        },
+                                        {
+                                            "bbox": [
+                                                67,
+                                                262,
+                                                525,
+                                                290
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "99\\%"
+                                        },
+                                        {
+                                            "bbox": [
+                                                67,
+                                                262,
+                                                525,
+                                                290
+                                            ],
+                                            "type": "text",
+                                            "content": ", "
+                                        },
+                                        {
+                                            "bbox": [
+                                                67,
+                                                262,
+                                                525,
+                                                290
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "99.9\\%"
+                                        },
+                                        {
+                                            "bbox": [
+                                                67,
+                                                262,
+                                                525,
+                                                290
+                                            ],
+                                            "type": "text",
+                                            "content": ", "
+                                        },
+                                        {
+                                            "bbox": [
+                                                67,
+                                                262,
+                                                525,
+                                                290
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "99.99\\%"
+                                        },
+                                        {
+                                            "bbox": [
+                                                67,
+                                                262,
+                                                525,
+                                                290
+                                            ],
+                                            "type": "text",
+                                            "content": ", and "
+                                        },
+                                        {
+                                            "bbox": [
+                                                67,
+                                                262,
+                                                525,
+                                                290
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "99.999\\%"
+                                        },
+                                        {
+                                            "bbox": [
+                                                67,
+                                                262,
+                                                525,
+                                                290
+                                            ],
+                                            "type": "text",
+                                            "content": " degradation of PFAS. 11"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        103,
+                        294,
+                        525,
+                        309
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                103,
+                                294,
+                                525,
+                                309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        294,
+                                        525,
+                                        309
+                                    ],
+                                    "type": "text",
+                                    "content": "Chapter 2. Thermal Degradation of PIDs. 14"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        103,
+                        312,
+                        526,
+                        381
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 15,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                103,
+                                312,
+                                525,
+                                327
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        312,
+                                        525,
+                                        327
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                103,
+                                                312,
+                                                525,
+                                                327
+                                            ],
+                                            "type": "text",
+                                            "content": "2.1. Thermal Degradation and Mineralization. 14"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                103,
+                                331,
+                                526,
+                                345
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        331,
+                                        526,
+                                        345
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                103,
+                                                331,
+                                                526,
+                                                345
+                                            ],
+                                            "type": "text",
+                                            "content": "2.2. Organofluorine Byproducts of PFCs. 16"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                103,
+                                349,
+                                526,
+                                364
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        349,
+                                        526,
+                                        364
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                103,
+                                                349,
+                                                526,
+                                                364
+                                            ],
+                                            "type": "text",
+                                            "content": "2.3. Bond Energy Distribution. 17"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                103,
+                                368,
+                                526,
+                                381
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        368,
+                                        526,
+                                        381
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                103,
+                                                368,
+                                                526,
+                                                381
+                                            ],
+                                            "type": "text",
+                                            "content": "2.4. Post-treatment of PIDs. 18"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        103,
+                        386,
+                        525,
+                        400
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                103,
+                                386,
+                                525,
+                                400
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        386,
+                                        525,
+                                        400
+                                    ],
+                                    "type": "text",
+                                    "content": "Chapter 3. Nondestructive detection of PIDs of PFAS 20"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "bbox": [
+                        68,
+                        404,
+                        525,
+                        469
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 20,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                68,
+                                404,
+                                525,
+                                432
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        404,
+                                        525,
+                                        432
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                68,
+                                                404,
+                                                525,
+                                                432
+                                            ],
+                                            "type": "text",
+                                            "content": "3.1. Reference FTIR Spectra of PFCs, HFCs, and Other Potential Thermal Degradation Products of PFAS. 20"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                103,
+                                436,
+                                525,
+                                450
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        436,
+                                        525,
+                                        450
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                103,
+                                                436,
+                                                525,
+                                                450
+                                            ],
+                                            "type": "text",
+                                            "content": "3.2. Thermal Degradation Products of PFOA Investigated by TGA-FTIR. 21"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                103,
+                                454,
+                                525,
+                                469
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        454,
+                                        525,
+                                        469
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                103,
+                                                454,
+                                                525,
+                                                469
+                                            ],
+                                            "type": "text",
+                                            "content": "3.3. Thermal Degradation Products of K-PFOS Investigated by TGA-FTIR. 21"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        103,
+                        472,
+                        525,
+                        486
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                103,
+                                472,
+                                525,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        472,
+                                        525,
+                                        486
+                                    ],
+                                    "type": "text",
+                                    "content": "CONCLUSIONS 22"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "bbox": [
+                        103,
+                        491,
+                        525,
+                        505
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                103,
+                                491,
+                                525,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        491,
+                                        525,
+                                        505
+                                    ],
+                                    "type": "text",
+                                    "content": "REFERENCES CITED IN THIS REPORT 25"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        415,
+                        744,
+                        525,
+                        759
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                744,
+                                525,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        744,
+                                        525,
+                                        759
+                                    ],
+                                    "type": "text",
+                                    "content": "Progress report_Page 3"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        250,
+                        125,
+                        344,
+                        137
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                250,
+                                125,
+                                344,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        250,
+                                        125,
+                                        344,
+                                        137
+                                    ],
+                                    "type": "text",
+                                    "content": "INTRODUCTION"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        66,
+                        142,
+                        527,
+                        290
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                142,
+                                527,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        142,
+                                        527,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "The U.S. Environmental Protection Agency (EPA) has regulated a few per- and polyfluoroalkyl substances (PFAS), including perfluorooctanoic acid (PFOA) and perfluorooctane sulfonic acid (PFOS) in under the Safe Drinking Water Act. Elevated levels (several tens of "
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        142,
+                                        527,
+                                        290
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mu \\mathrm{g} / \\mathrm{L}"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        142,
+                                        527,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": ") of PFAS have been found in groundwater at a number of locations in the United States. Groundwater contamination of PFAS is directly associated with surface soil contamination. The major contamination sources include fire-training sites using aqueous film-forming foams (AFFFs) and municipal solid waste (MSW) landfills. Concentrations of PFOA/PFOS as high as 87,140 ng/L have been measured in landfill leachates. PFAS can move off-site from contamination sources (landfills, AFFF-applied sites, or biosolids) and migrate to aquifers via leaching and surface water via runoff. PFAS-laden MSW pose considerable challenges to established waste disposal and recycling practices."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        69,
+                        290,
+                        526,
+                        490
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                290,
+                                526,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": "Thermal treatment is a promising approach for PFAS management in solid waste. The studies of PI Xiao and his group are the earliest attempts to investigate PFAS thermal stability and degradation mechanisms."
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{14-27}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": " The temperature-time profile has a significant impact on PFAS degradation. The thermal mineralization rate of PFOA and PFOS can reach to "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "87 - 92\\mathrm{mol}\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": " at "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "700 - 800^{\\circ}\\mathrm{C}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": ". At a lower temperature "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(500^{\\circ}\\mathrm{C})"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": ", a brief treatment for "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "7\\mathrm{min}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": " resulted in "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "45 - 55\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": " degradation of all perfluoroalkyl sulfonates (PFSAs) in soil, while a treatment time of "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "15\\mathrm{min}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": " increased the extent of degradation to "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "94 - 98\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": "."
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{28}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": " A small portion of PFOS, however, continued to decompose at a much slower rate."
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{28}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": " The mass loss followed first-order kinetics. The apparent thermal decomposition half-lives of PFSAs in soil were "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "28.7 - 51.8\\mathrm{min}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": " and "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "2.4 - 3.1\\mathrm{min}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": ", respectively, at "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "400^{\\circ}\\mathrm{C}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": " and "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "500^{\\circ}\\mathrm{C}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": "."
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{28}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": " Highly porous materials can alter the thermal decomposition pathway of perfluoroalkyl carboxylates (PFCAs) (e.g., PFOA) and GenX and substantially accelerate their decomposition at low and moderate temperatures "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(< 400^{\\circ}\\mathrm{C})"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": "."
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{15}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": " In this research, we hypothesize that half-lives of PFAS, including PFOA and PFOS, in MSW may be in the range of several seconds to one minute at a typical incineration temperature (e.g., "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\sim 900^{\\circ}\\mathrm{C}"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        290,
+                                        526,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": "). This hypothesis will be tested in this research."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        69,
+                        491,
+                        526,
+                        733
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                491,
+                                526,
+                                733
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        491,
+                                        526,
+                                        733
+                                    ],
+                                    "type": "text",
+                                    "content": "In addition to our studies, Strathmann at the Colorado School of Mines and co-workers developed a hydrothermal treatment system,[29-30] in which water at a high temperature and pressure is used to catalyze hydrolytic reactions of PFAS. Crownover et al. examined the decontamination of soils containing perfluoroalkyl substances using thermal desorption[31] by heating the contaminated soil to a specific temperature to vaporize the contaminants. The goal of thermal desorption, however, is simply to separate PFAS from soil, and subsequent treatment of vaporized PFAS molecules is still needed. Gerhard at the University of Western Ontario and Major at Geosyntec Consultants investigated thermal degradation of PFAS in soil by smoldering combustion.[32-33] Dastgheib et al. investigated PFAS degradation on spent resins by means of thermogravimetric analysis to simulate the incineration process.[34] Wang et al. suggested direct F elimination from PFCAs during thermal treatments.[35] Blotevogel et al. found that the primary decomposition mechanism of PFOA is C-COOH cleavage, whereas "
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        491,
+                                        526,
+                                        733
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\alpha"
+                                },
+                                {
+                                    "bbox": [
+                                        69,
+                                        491,
+                                        526,
+                                        733
+                                    ],
+                                    "type": "text",
+                                    "content": "-elimination predominates in the breakdown of hexafluoropropylene oxide dimer acid (HFPO-DA).[36] Using density functional theory, Adi and Altarawneh explored various potential thermal decomposition pathways for HFPO-DA.[37] Kennedy and colleagues conducted a series of experiments via thermogravimetric analysis coupled with FTIR (TGA-FTIR) for the simultaneous and continuous real-time analysis of the volatile products of incomplete combustion (PIDs) of PFOA and PFOS (the acid form).[38-41] Hughey et al. employed sampling bags to capture gaseous PIDs of K-PFOS, which were"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        415,
+                        745,
+                        526,
+                        758
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                745,
+                                526,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        745,
+                                        526,
+                                        758
+                                    ],
+                                    "type": "text",
+                                    "content": "Progress report_Page 4"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        66,
+                        105,
+                        525,
+                        146
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                105,
+                                525,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": "subsequently analyzed by FTIR."
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{42}"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": " Granular activated carbon,"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{15}"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": " pure platinum "
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(\\mathrm{Pt})"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": ","
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{35}"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": " alumina "
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(\\mathrm{Al}_{2}\\mathrm{O}_{3})"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": ","
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{43}"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": " and alkali and alkaline-earth metal additives"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{30,43-46}"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        105,
+                                        525,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": " have shown to improve the thermal degradation of PFAS while reducing the production of PIDs."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        66,
+                        146,
+                        527,
+                        253
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                146,
+                                527,
+                                253
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        146,
+                                        527,
+                                        253
+                                    ],
+                                    "type": "text",
+                                    "content": "Despite the insights gained from previous studies, some fundamental issues have not been properly addressed. We are not aware of systematic studies on PFAS degradation and mineralization in MSW incineration processes. The PFAS incineration mechanisms and thermokinetics are unclear, and the effects of the combustion temperature-time profile, the thermokinetic control, and the identity of decomposition products remain largely elusive. It is imperative to obtain a comprehensive understanding of thermal PFAS decomposition mechanisms (pathways, products, and thermodynamics) to facilitate the industrialization of incineration processes."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        66,
+                        253,
+                        527,
+                        388
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                253,
+                                527,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        253,
+                                        527,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "Furthermore, post-treatment may be needed for further treatment of PIDs. In one of our recent studies, ultra-short-chain perfluoroalkanes of significant concern,[47] such as perfluoromethane and perfluoroethane, were not observed in the exhaust gas during thermal treatment of PFOA and PFOS.[28] Perfluoroalkenes, in particular perfluoroheptene, are main PIDs identified in pyrolysis processes of PFOA, PFOS, cationic/zwitterionic PFAS, and AFFF samples at moderate temperatures. We further found that perfluoroheptene thermally decomposed at temperatures as low as "
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        253,
+                                        527,
+                                        388
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "200^{\\circ}\\mathrm{C}"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        253,
+                                        527,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": " to shorter-chain homologues following a radical chain-scission mechanism.[14] An afterburner temperature of "
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        253,
+                                        527,
+                                        388
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "890^{\\circ}\\mathrm{C}"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        253,
+                                        527,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": " appears to be effective to decompose fugitive PFAS and volatile degradation products.[14] The exhaust gas will be passed through a column filled with "
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        253,
+                                        527,
+                                        388
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathrm{CaO}^{44}"
+                                },
+                                {
+                                    "bbox": [
+                                        66,
+                                        253,
+                                        527,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": " or kaolinite[28] to remove HF generated from both tube furnaces."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        66,
+                        388,
+                        527,
+                        497
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                388,
+                                527,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        388,
+                                        527,
+                                        497
+                                    ],
+                                    "type": "text",
+                                    "content": "The goal of this project is to develop effective and complete destruction technologies for PFAS in incineration and fuel blending operations. We have determined the incineration conditions (temperature–time profiles, air flow, PFAS loading, and air–fuel ratio) to achieve a destruction and removal efficiency (DRE) of 99–99.999% for PFAS in municipal solid waste (MSW); optimized the incineration conditions to achieve maximum mineralization of PFAS; identified incineration pathways and end-products of PFAS; and established a post-treatment train to remove and degrade volatile incineration products. We also tested other (sensor) approaches for measuring PIDs (coPI Zhang at New Jersey Institute of Technology)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        415,
+                        745,
+                        525,
+                        758
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                745,
+                                525,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        745,
+                                        525,
+                                        758
+                                    ],
+                                    "type": "text",
+                                    "content": "Progress report_Page 5"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 4
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "2.7.6"
+}
