@@ -216,7 +216,7 @@ def convert_md_to_docx():
     ensuring titles, tables, formulas, and images are properly handled.
     Then set fonts: English body text to Times New Roman, Chinese text to SimSun.
     """
-    aims_dir = Path("./aims")
+    aims_dir = Path("../aims")
     
     if not aims_dir.exists():
         logger.error(f"Directory {aims_dir} does not exist.")
