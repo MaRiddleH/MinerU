@@ -17,4 +17,8 @@ rem 5. Run mineru command
 echo Running mineru command...
 mineru -p ./ -o ./
 
+rem 6. Convert Markdown files to DOCX
+echo Converting Markdown files to DOCX...
+python ../convert_md_to_docx.py
+
 pause

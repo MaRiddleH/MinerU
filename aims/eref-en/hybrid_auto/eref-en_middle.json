@@ -538,7 +538,7 @@
                         174,
                         524,
                         472,
-                        538
+                        537
                     ],
                     "type": "text",
                     "angle": 0,
@@ -595,7 +595,7 @@
                                     ],
                                     "type": "text",
                                     "content": "EREF",
-                                    "score": 0.998
+                                    "score": 0.997
                                 }
                             ]
                         }
@@ -649,8 +649,8 @@
                                         611
                                     ],
                                     "type": "text",
-                                    "content": "& Education Foundation",
-                                    "score": 0.976
+                                    "content": "&Education Foundation",
+                                    "score": 0.996
                                 }
                             ]
                         }
@@ -1902,9 +1902,9 @@
                         {
                             "bbox": [
                                 107,
-                                140,
+                                139,
                                 541,
-                                153
+                                152
                             ],
                             "type": "text",
                             "angle": 0,
@@ -1913,17 +1913,17 @@
                                 {
                                     "bbox": [
                                         106,
-                                        138,
+                                        139,
                                         541,
-                                        153
+                                        154
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
                                                 106,
-                                                138,
-                                                264,
-                                                153
+                                                139,
+                                                266,
+                                                154
                                             ],
                                             "type": "text",
                                             "content": "RESULTS AND DISCUSSION..",
@@ -1931,8 +1931,8 @@
                                         },
                                         {
                                             "bbox": [
-                                                531,
-                                                142,
+                                                530,
+                                                140,
                                                 541,
                                                 152
                                             ],
@@ -1947,7 +1947,7 @@
                         {
                             "bbox": [
                                 107,
-                                159,
+                                158,
                                 541,
                                 173
                             ],
@@ -1957,27 +1957,27 @@
                             "lines": [
                                 {
                                     "bbox": [
-                                        105,
-                                        156,
+                                        106,
+                                        157,
                                         541,
                                         174
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
-                                                105,
-                                                156,
-                                                448,
+                                                106,
+                                                157,
+                                                462,
                                                 174
                                             ],
                                             "type": "text",
-                                            "content": "Chapter 1. Thermal Destruction of PFAS at Incineration Temperatures .",
+                                            "content": "Chapter 1. Thermal Destruction of PFAS at Incineration Temperatures ......",
                                             "score": 1.0
                                         },
                                         {
                                             "bbox": [
-                                                526,
-                                                159,
+                                                525,
+                                                158,
                                                 541,
                                                 172
                                             ],
@@ -1992,7 +1992,7 @@
                         {
                             "bbox": [
                                 107,
-                                178,
+                                177,
                                 541,
                                 191
                             ],
@@ -2003,20 +2003,20 @@
                                 {
                                     "bbox": [
                                         106,
-                                        176,
+                                        177,
                                         541,
-                                        191
+                                        192
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
                                                 106,
-                                                176,
-                                                241,
-                                                191
+                                                177,
+                                                243,
+                                                192
                                             ],
                                             "type": "text",
-                                            "content": "1.1. Incineration of PFCAs .",
+                                            "content": "1.1. Incineration of PFCAs ..",
                                             "score": 1.0
                                         },
                                         {
@@ -2116,7 +2116,7 @@
                         {
                             "bbox": [
                                 70,
-                                234,
+                                233,
                                 541,
                                 262
                             ],
@@ -2129,7 +2129,7 @@
                                         105,
                                         232,
                                         541,
-                                        250
+                                        249
                                     ],
                                     "spans": [
                                         {
@@ -2137,7 +2137,7 @@
                                                 105,
                                                 232,
                                                 363,
-                                                250
+                                                249
                                             ],
                                             "type": "text",
                                             "content": "1.4. Minimum incineration time required to achieve",
@@ -2159,7 +2159,7 @@
                                                 388,
                                                 232,
                                                 392,
-                                                250
+                                                249
                                             ],
                                             "type": "text",
                                             "content": ",",
@@ -2181,7 +2181,7 @@
                                                 425,
                                                 232,
                                                 429,
-                                                250
+                                                249
                                             ],
                                             "type": "text",
                                             "content": ",",
@@ -2203,7 +2203,7 @@
                                                 470,
                                                 232,
                                                 495,
-                                                250
+                                                249
                                             ],
                                             "type": "text",
                                             "content": ", and",
@@ -2234,22 +2234,22 @@
                                             "bbox": [
                                                 69,
                                                 246,
-                                                184,
+                                                178,
                                                 262
                                             ],
                                             "type": "text",
-                                            "content": "degradation of PFAS ....",
+                                            "content": "degradation of PFAS ..",
                                             "score": 1.0
                                         },
                                         {
                                             "bbox": [
-                                                522,
+                                                526,
                                                 249,
                                                 539,
-                                                261
+                                                259
                                             ],
                                             "type": "text",
-                                            "content": "..11",
+                                            "content": ".11",
                                             "score": 1.0
                                         }
                                     ]
@@ -2306,7 +2306,7 @@
                                 107,
                                 285,
                                 541,
-                                299
+                                298
                             ],
                             "type": "text",
                             "angle": 0,
@@ -2316,7 +2316,7 @@
                                     "bbox": [
                                         105,
                                         283,
-                                        542,
+                                        541,
                                         300
                                     ],
                                     "spans": [
@@ -2324,22 +2324,22 @@
                                             "bbox": [
                                                 105,
                                                 283,
-                                                331,
+                                                339,
                                                 300
                                             ],
                                             "type": "text",
-                                            "content": "2.1. Thermal Degradation and Mineralization..",
+                                            "content": "2.1. Thermal Degradation and Mineralization.....",
                                             "score": 1.0
                                         },
                                         {
                                             "bbox": [
-                                                522,
-                                                283,
-                                                542,
-                                                299
+                                                524,
+                                                284,
+                                                541,
+                                                298
                                             ],
                                             "type": "text",
-                                            "content": ". 14",
+                                            "content": "14",
                                             "score": 1.0
                                         }
                                     ]
@@ -2595,7 +2595,7 @@
                         {
                             "bbox": [
                                 107,
-                                412,
+                                411,
                                 541,
                                 426
                             ],
@@ -2606,17 +2606,17 @@
                                 {
                                     "bbox": [
                                         105,
-                                        408,
+                                        410,
                                         541,
-                                        427
+                                        428
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
                                                 105,
-                                                408,
+                                                410,
                                                 466,
-                                                427
+                                                428
                                             ],
                                             "type": "text",
                                             "content": "3.2. Thermal Degradation Products of PFOA Investigated by TGA-FTIR. ..",
@@ -2624,10 +2624,10 @@
                                         },
                                         {
                                             "bbox": [
-                                                518,
-                                                409,
+                                                520,
+                                                410,
                                                 541,
-                                                427
+                                                426
                                             ],
                                             "type": "text",
                                             "content": ".. 21",
@@ -2698,32 +2698,32 @@
                     "lines": [
                         {
                             "bbox": [
-                                105,
-                                447,
-                                542,
-                                464
+                                106,
+                                448,
+                                541,
+                                463
                             ],
                             "spans": [
                                 {
                                     "bbox": [
-                                        105,
+                                        106,
                                         449,
-                                        197,
-                                        463
+                                        198,
+                                        462
                                     ],
                                     "type": "text",
-                                    "content": "CONCLUSIONS..",
+                                    "content": "CONCLUSIONS...",
                                     "score": 1.0
                                 },
                                 {
                                     "bbox": [
-                                        523,
-                                        447,
-                                        542,
-                                        464
+                                        524,
+                                        448,
+                                        541,
+                                        463
                                     ],
                                     "type": "text",
-                                    "content": ". 22",
+                                    "content": "22",
                                     "score": 1.0
                                 }
                             ]
@@ -2743,18 +2743,18 @@
                     "lines": [
                         {
                             "bbox": [
-                                105,
-                                466,
-                                542,
-                                483
+                                107,
+                                467,
+                                541,
+                                482
                             ],
                             "spans": [
                                 {
                                     "bbox": [
-                                        105,
-                                        467,
+                                        107,
+                                        468,
                                         318,
-                                        482
+                                        481
                                     ],
                                     "type": "text",
                                     "content": "REFERENCES CITED IN THIS REPORT .",
@@ -2762,13 +2762,13 @@
                                 },
                                 {
                                     "bbox": [
-                                        523,
-                                        466,
-                                        542,
-                                        483
+                                        524,
+                                        467,
+                                        541,
+                                        482
                                     ],
                                     "type": "text",
-                                    "content": ". 25",
+                                    "content": "25",
                                     "score": 1.0
                                 }
                             ]
@@ -2780,7 +2780,7 @@
                 {
                     "bbox": [
                         427,
-                        729,
+                        728,
                         541,
                         743
                     ],
@@ -2790,7 +2790,7 @@
                     "lines": [
                         {
                             "bbox": [
-                                426,
+                                425,
                                 728,
                                 541,
                                 744
@@ -2798,7 +2798,7 @@
                             "spans": [
                                 {
                                     "bbox": [
-                                        426,
+                                        425,
                                         728,
                                         541,
                                         744
@@ -4901,7 +4901,7 @@
                     "lines": [
                         {
                             "bbox": [
-                                426,
+                                425,
                                 728,
                                 541,
                                 744
@@ -4909,7 +4909,7 @@
                             "spans": [
                                 {
                                     "bbox": [
-                                        426,
+                                        425,
                                         728,
                                         541,
                                         744
@@ -6546,7 +6546,7 @@
                                 425,
                                 728,
                                 542,
-                                743
+                                744
                             ],
                             "spans": [
                                 {
@@ -6554,7 +6554,7 @@
                                         425,
                                         728,
                                         542,
-                                        743
+                                        744
                                     ],
                                     "type": "text",
                                     "content": "Progress report_Page 6",
@@ -6794,63 +6794,346 @@
                             "index": 4,
                             "angle": 0,
                             "type": "image_body"
-                        }
-                    ],
-                    "index": 4
-                },
-                {
-                    "type": "image",
-                    "bbox": [
-                        345,
-                        416,
-                        483,
-                        521
-                    ],
-                    "blocks": [
+                        },
                         {
                             "bbox": [
                                 345,
                                 416,
                                 483,
-                                521
+                                430
                             ],
                             "lines": [
                                 {
                                     "bbox": [
                                         345,
-                                        416,
+                                        417,
                                         483,
-                                        521
+                                        431
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
                                                 345,
-                                                416,
+                                                417,
                                                 483,
-                                                521
+                                                431
                                             ],
-                                            "type": "image",
-                                            "image_path": "79ad544f86aa5629bd6792d6717dbecda15c4796b249d813d00035e68903045c.jpg"
+                                            "type": "text",
+                                            "content": "Legend to symbols used in figures",
+                                            "score": 1.0
                                         }
                                     ]
                                 }
                             ],
                             "index": 5,
                             "angle": 0,
-                            "type": "image_body"
+                            "type": "image_footnote"
+                        },
+                        {
+                            "bbox": [
+                                345,
+                                430,
+                                394,
+                                439
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        343,
+                                        428,
+                                        395,
+                                        441
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                343,
+                                                428,
+                                                395,
+                                                441
+                                            ],
+                                            "type": "text",
+                                            "content": "PFBA",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        },
+                        {
+                            "bbox": [
+                                345,
+                                441,
+                                399,
+                                450
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        356,
+                                        441,
+                                        400,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                356,
+                                                443,
+                                                358,
+                                                449
+                                            ],
+                                            "type": "text",
+                                            "content": "E",
+                                            "score": 0.596
+                                        },
+                                        {
+                                            "bbox": [
+                                                366,
+                                                441,
+                                                400,
+                                                451
+                                            ],
+                                            "type": "text",
+                                            "content": "PFPeA",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        },
+                        {
+                            "bbox": [
+                                345,
+                                453,
+                                399,
+                                461
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        345,
+                                        450,
+                                        401,
+                                        464
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                345,
+                                                450,
+                                                401,
+                                                464
+                                            ],
+                                            "type": "text",
+                                            "content": "PFHpA",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        },
+                        {
+                            "bbox": [
+                                345,
+                                464,
+                                399,
+                                472
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        354,
+                                        462,
+                                        400,
+                                        475
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                354,
+                                                465,
+                                                362,
+                                                472
+                                            ],
+                                            "type": "text",
+                                            "content": "4",
+                                            "score": 0.69
+                                        },
+                                        {
+                                            "bbox": [
+                                                365,
+                                                462,
+                                                400,
+                                                475
+                                            ],
+                                            "type": "text",
+                                            "content": "PFHxA",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        },
+                        {
+                            "bbox": [
+                                345,
+                                475,
+                                394,
+                                483
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        366,
+                                        473,
+                                        396,
+                                        486
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                366,
+                                                473,
+                                                396,
+                                                486
+                                            ],
+                                            "type": "text",
+                                            "content": "PFOA",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        },
+                        {
+                            "bbox": [
+                                345,
+                                486,
+                                394,
+                                495
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        365,
+                                        485,
+                                        395,
+                                        496
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                365,
+                                                485,
+                                                395,
+                                                496
+                                            ],
+                                            "type": "text",
+                                            "content": "PFNA",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        },
+                        {
+                            "bbox": [
+                                345,
+                                497,
+                                394,
+                                506
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        365,
+                                        496,
+                                        395,
+                                        507
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                365,
+                                                496,
+                                                395,
+                                                507
+                                            ],
+                                            "type": "text",
+                                            "content": "PFDA",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        },
+                        {
+                            "bbox": [
+                                345,
+                                508,
+                                405,
+                                519
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        344,
+                                        506,
+                                        407,
+                                        519
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                344,
+                                                506,
+                                                407,
+                                                519
+                                            ],
+                                            "type": "text",
+                                            "content": "PFUnDA",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "angle": 0,
+                            "type": "image_footnote"
                         },
                         {
                             "bbox": [
                                 140,
-                                565,
+                                564,
                                 468,
                                 578
                             ],
                             "lines": [
                                 {
                                     "bbox": [
-                                        140,
+                                        141,
                                         564,
                                         470,
                                         579
@@ -6858,7 +7141,7 @@
                                     "spans": [
                                         {
                                             "bbox": [
-                                                140,
+                                                141,
                                                 564,
                                                 470,
                                                 579
@@ -6870,23 +7153,23 @@
                                     ]
                                 }
                             ],
-                            "index": 6,
+                            "index": 15,
                             "angle": 0,
                             "type": "image_caption"
                         }
                     ],
-                    "index": 5
+                    "index": 4
                 },
                 {
                     "bbox": [
                         105,
                         597,
-                        356,
+                        358,
                         612
                     ],
                     "type": "title",
                     "angle": 0,
-                    "index": 7,
+                    "index": 16,
                     "lines": [
                         {
                             "bbox": [
@@ -6920,7 +7203,7 @@
                     ],
                     "type": "text",
                     "angle": 0,
-                    "index": 8,
+                    "index": 17,
                     "lines": [
                         {
                             "bbox": [
@@ -7247,7 +7530,7 @@
                                     "bbox": [
                                         311,
                                         699,
-                                        359,
+                                        358,
                                         712
                                     ],
                                     "type": "inline_equation",
@@ -7275,30 +7558,30 @@
                     "bbox": [
                         426,
                         728,
-                        529,
+                        511,
                         742
                     ],
                     "type": "footer",
                     "angle": 0,
-                    "index": 9,
+                    "index": 18,
                     "lines": [
                         {
                             "bbox": [
                                 425,
-                                727,
-                                533,
-                                745
+                                728,
+                                514,
+                                744
                             ],
                             "spans": [
                                 {
                                     "bbox": [
                                         425,
-                                        727,
-                                        533,
-                                        745
+                                        728,
+                                        514,
+                                        744
                                     ],
                                     "type": "text",
-                                    "content": "Progress report_Page",
+                                    "content": "Progress report_",
                                     "score": 1.0
                                 }
                             ]
@@ -7307,32 +7590,32 @@
                 },
                 {
                     "bbox": [
-                        533,
-                        729,
+                        513,
+                        728,
                         540,
-                        741
+                        742
                     ],
                     "type": "page_number",
                     "angle": 0,
-                    "index": 10,
+                    "index": 19,
                     "lines": [
                         {
                             "bbox": [
-                                532,
-                                729,
-                                541,
-                                742
+                                508,
+                                727,
+                                542,
+                                744
                             ],
                             "spans": [
                                 {
                                     "bbox": [
-                                        532,
-                                        729,
-                                        541,
-                                        742
+                                        508,
+                                        727,
+                                        542,
+                                        744
                                     ],
                                     "type": "text",
-                                    "content": "7",
+                                    "content": "Page 7",
                                     "score": 1.0
                                 }
                             ]
@@ -10871,7 +11154,7 @@
                         291,
                         216,
                         462,
-                        354
+                        355
                     ],
                     "blocks": [
                         {
@@ -10879,7 +11162,7 @@
                                 291,
                                 216,
                                 462,
-                                354
+                                355
                             ],
                             "lines": [
                                 {
@@ -10887,7 +11170,7 @@
                                         291,
                                         216,
                                         462,
-                                        354
+                                        355
                                     ],
                                     "spans": [
                                         {
@@ -10895,10 +11178,10 @@
                                                 291,
                                                 216,
                                                 462,
-                                                354
+                                                355
                                             ],
                                             "type": "image",
-                                            "image_path": "4946d7f1d68557042cbe5654c41c8ae32e260e104ee3fa560b5ba3a4cd751d08.jpg"
+                                            "image_path": "d3474947bc2f88faae21b649ee1410661d79e71d43994a6cec2d6e0f7cf99115.jpg"
                                         }
                                     ]
                                 }
@@ -14720,7 +15003,7 @@
                         94,
                         287,
                         289,
-                        438
+                        439
                     ],
                     "blocks": [
                         {
@@ -14728,7 +15011,7 @@
                                 94,
                                 287,
                                 289,
-                                438
+                                439
                             ],
                             "lines": [
                                 {
@@ -14736,7 +15019,7 @@
                                         94,
                                         287,
                                         289,
-                                        438
+                                        439
                                     ],
                                     "spans": [
                                         {
@@ -14744,10 +15027,10 @@
                                                 94,
                                                 287,
                                                 289,
-                                                438
+                                                439
                                             ],
                                             "type": "image",
-                                            "image_path": "173df0d4aebc46cd423a724656a993919b049663bc42d60270b2fd97117ce2a6.jpg"
+                                            "image_path": "fbe5a48498dc5dc297abe5eea80e34601cfd0424f9993d182a659d02452072c0.jpg"
                                         }
                                     ]
                                 }
@@ -14765,7 +15048,7 @@
                         326,
                         287,
                         523,
-                        437
+                        438
                     ],
                     "blocks": [
                         {
@@ -14773,7 +15056,7 @@
                                 326,
                                 287,
                                 523,
-                                437
+                                438
                             ],
                             "lines": [
                                 {
@@ -14781,7 +15064,7 @@
                                         326,
                                         287,
                                         523,
-                                        437
+                                        438
                                     ],
                                     "spans": [
                                         {
@@ -14789,10 +15072,10 @@
                                                 326,
                                                 287,
                                                 523,
-                                                437
+                                                438
                                             ],
                                             "type": "image",
-                                            "image_path": "0a6598307afa9562872e3c04400f22c9032e6cd961dcd10feb0dc269bc753497.jpg"
+                                            "image_path": "048ac676dc0d85475ce5ed3306a3f807999ccb037df80c402d2db63cd4e2930e.jpg"
                                         }
                                     ]
                                 }
@@ -14900,7 +15183,7 @@
                         417,
                         456,
                         515,
-                        538
+                        539
                     ],
                     "blocks": [
                         {
@@ -14908,7 +15191,7 @@
                                 417,
                                 456,
                                 515,
-                                538
+                                539
                             ],
                             "lines": [
                                 {
@@ -14916,7 +15199,7 @@
                                         417,
                                         456,
                                         515,
-                                        538
+                                        539
                                     ],
                                     "spans": [
                                         {
@@ -14924,10 +15207,10 @@
                                                 417,
                                                 456,
                                                 515,
-                                                538
+                                                539
                                             ],
                                             "type": "image",
-                                            "image_path": "37297d3be1d70ba4a1b19085963b1c59fcf4390b6cd1d69806dd458d9a632c5a.jpg"
+                                            "image_path": "be19b27db80d0d86662fd430a942e74e0e63688b8deb517e24080513f52ab7b1.jpg"
                                         }
                                     ]
                                 }
@@ -15470,7 +15753,7 @@
                         528,
                         728,
                         540,
-                        741
+                        742
                     ],
                     "type": "page_number",
                     "angle": 0,
@@ -18413,18 +18696,18 @@
                     "lines": [
                         {
                             "bbox": [
-                                419,
+                                420,
                                 728,
                                 541,
-                                744
+                                743
                             ],
                             "spans": [
                                 {
                                     "bbox": [
-                                        419,
+                                        420,
                                         728,
                                         541,
-                                        744
+                                        743
                                     ],
                                     "type": "text",
                                     "content": "Progress report_Page 17",
@@ -18536,8 +18819,8 @@
                     "bbox": [
                         67,
                         127,
-                        541,
-                        209
+                        543,
+                        210
                     ],
                     "type": "text",
                     "angle": 0,
@@ -18730,7 +19013,7 @@
                     "bbox": [
                         67,
                         210,
-                        541,
+                        544,
                         334
                     ],
                     "type": "text",
@@ -19097,7 +19380,7 @@
                     "bbox": [
                         67,
                         335,
-                        541,
+                        544,
                         458
                     ],
                     "type": "text",
@@ -19321,7 +19604,7 @@
                     "bbox": [
                         67,
                         459,
-                        541,
+                        543,
                         678
                     ],
                     "type": "text",
@@ -20458,7 +20741,7 @@
                         78,
                         446,
                         273,
-                        571
+                        573
                     ],
                     "blocks": [
                         {
@@ -20466,7 +20749,7 @@
                                 78,
                                 446,
                                 273,
-                                571
+                                573
                             ],
                             "lines": [
                                 {
@@ -20474,7 +20757,7 @@
                                         78,
                                         446,
                                         273,
-                                        571
+                                        573
                                     ],
                                     "spans": [
                                         {
@@ -20482,10 +20765,10 @@
                                                 78,
                                                 446,
                                                 273,
-                                                571
+                                                573
                                             ],
                                             "type": "image",
-                                            "image_path": "bfc4bccb751fe2584aee08bfc5fdaa4a39aa89d07aec6423f507a247c383b668.jpg"
+                                            "image_path": "e4cfed9c6a08a88d5d6b0bec96bf55bcc0b72616bdfa48937527f0c9c07f220b.jpg"
                                         }
                                     ]
                                 }
@@ -20503,7 +20786,7 @@
                         286,
                         446,
                         481,
-                        571
+                        572
                     ],
                     "blocks": [
                         {
@@ -20511,7 +20794,7 @@
                                 286,
                                 446,
                                 481,
-                                571
+                                572
                             ],
                             "lines": [
                                 {
@@ -20519,7 +20802,7 @@
                                         286,
                                         446,
                                         481,
-                                        571
+                                        572
                                     ],
                                     "spans": [
                                         {
@@ -20527,10 +20810,10 @@
                                                 286,
                                                 446,
                                                 481,
-                                                571
+                                                572
                                             ],
                                             "type": "image",
-                                            "image_path": "4890852094f863622b82337119820824f1e8bca6b7ea7879dadc2e1bd21276da.jpg"
+                                            "image_path": "5ca7bf6fa5f6cc2a2ead1ca295189bdfd2bdeb2ed6643e3dbb42e9229fd2b510.jpg"
                                         }
                                     ]
                                 }
@@ -23232,7 +23515,7 @@
                         107,
                         113,
                         515,
-                        127
+                        126
                     ],
                     "type": "title",
                     "angle": 0,
@@ -23243,7 +23526,7 @@
                                 107,
                                 110,
                                 515,
-                                131
+                                130
                             ],
                             "spans": [
                                 {
@@ -23251,7 +23534,7 @@
                                         107,
                                         110,
                                         515,
-                                        131
+                                        130
                                     ],
                                     "type": "text",
                                     "content": "3.2. Thermal Degradation Products of PFOA Investigated by TGA-FTIR.",
@@ -25309,7 +25592,7 @@
                                 419,
                                 728,
                                 541,
-                                743
+                                744
                             ],
                             "spans": [
                                 {
@@ -25317,7 +25600,7 @@
                                         419,
                                         728,
                                         541,
-                                        743
+                                        744
                                     ],
                                     "type": "text",
                                     "content": "Progress report_Page 21",
@@ -26369,7 +26652,7 @@
                 },
                 {
                     "bbox": [
-                        104,
+                        106,
                         501,
                         539,
                         514
@@ -26379,7 +26662,7 @@
                     "lines": [
                         {
                             "bbox": [
-                                104,
+                                106,
                                 501,
                                 539,
                                 514
@@ -26387,14 +26670,14 @@
                             "spans": [
                                 {
                                     "bbox": [
-                                        104,
+                                        106,
                                         501,
                                         539,
                                         514
                                     ],
                                     "type": "interline_equation",
                                     "content": "\\mathrm {P F A S} \\left(\\mathrm {C} _ {\\mathrm {n}} \\mathrm {F} _ {2 \\mathrm {n} + 1} - \\mathrm {X}\\right) (\\mathrm {g}) \\rightarrow \\mathrm {C} _ {\\mathrm {n}} \\mathrm {F} _ {2 \\mathrm {n} + 1} \\bullet + \\mathrm {X} \\bullet \\tag {1}",
-                                    "image_path": "745a6a2db47a7ebecbc053a4cd1701c1487b7e82542284c211546ced08d28093.jpg"
+                                    "image_path": "04ad5734b176e8fcfadfc810b758697f1195a3739512544fcd815a77f933ca9c.jpg"
                                 }
                             ]
                         }
@@ -26403,32 +26686,32 @@
                 },
                 {
                     "bbox": [
-                        104,
+                        106,
                         516,
-                        541,
-                        531
+                        539,
+                        530
                     ],
                     "type": "interline_equation",
                     "angle": 0,
                     "lines": [
                         {
                             "bbox": [
-                                104,
+                                106,
                                 516,
-                                541,
-                                531
+                                539,
+                                530
                             ],
                             "spans": [
                                 {
                                     "bbox": [
-                                        104,
+                                        106,
                                         516,
-                                        541,
-                                        531
+                                        539,
+                                        530
                                     ],
                                     "type": "interline_equation",
                                     "content": "\\mathrm {C} _ {\\mathrm {n}} \\mathrm {F} _ {2 \\mathrm {n} + 1} \\bullet \\rightarrow \\mathrm {R} _ {1} - \\mathrm {C F} _ {2} \\bullet + \\mathrm {R} _ {2} - \\mathrm {C F} = \\mathrm {C F} _ {2} (\\text {h o m o l y t i c c l e a v a g e}) \\tag {2}",
-                                    "image_path": "69add8814ce356d83e52e408f9cf9012c53d8bf844e56af6499f24153cac7982.jpg"
+                                    "image_path": "31e30ffa32516a7bbb154907c2a2f744e965c656f1133e88d8994c52f9f4acff.jpg"
                                 }
                             ]
                         }
@@ -26437,9 +26720,9 @@
                 },
                 {
                     "bbox": [
-                        104,
+                        106,
                         533,
-                        541,
+                        539,
                         547
                     ],
                     "type": "interline_equation",
@@ -26447,22 +26730,22 @@
                     "lines": [
                         {
                             "bbox": [
-                                104,
+                                106,
                                 533,
-                                541,
+                                539,
                                 547
                             ],
                             "spans": [
                                 {
                                     "bbox": [
-                                        104,
+                                        106,
                                         533,
-                                        541,
+                                        539,
                                         547
                                     ],
                                     "type": "interline_equation",
                                     "content": "\\mathrm {C} _ {\\mathrm {n}} \\mathrm {F} _ {2 \\mathrm {n} + 1} \\bullet \\longrightarrow \\mathrm {C} _ {\\mathrm {n} - 2} \\mathrm {F} _ {2 \\mathrm {n} - 3} - \\mathrm {C F} = \\mathrm {C F} _ {2} + \\mathrm {F} \\bullet \\quad (\\beta \\text {e l i m i n a t i o n}) \\tag {3}",
-                                    "image_path": "2d503ec8b2aec3cbd6c8fa02d629c7aded6678705758d466de58f45d4deccf7b.jpg"
+                                    "image_path": "bf5542a3a666d933321cf0d60bf3dc5dd92c8a93df7142c0ab2dc169c05f954b.jpg"
                                 }
                             ]
                         }
@@ -26473,7 +26756,7 @@
                     "bbox": [
                         67,
                         548,
-                        544,
+                        541,
                         633
                     ],
                     "type": "text",
@@ -26744,8 +27027,8 @@
                     "bbox": [
                         276,
                         657,
-                        370,
-                        671
+                        369,
+                        670
                     ],
                     "type": "title",
                     "angle": 0,
@@ -26777,8 +27060,8 @@
                 {
                     "bbox": [
                         67,
-                        675,
-                        542,
+                        674,
+                        541,
                         717
                     ],
                     "type": "text",
@@ -26788,17 +27071,17 @@
                         {
                             "bbox": [
                                 105,
-                                673,
+                                674,
                                 542,
-                                692
+                                691
                             ],
                             "spans": [
                                 {
                                     "bbox": [
                                         105,
-                                        673,
+                                        674,
                                         542,
-                                        692
+                                        691
                                     ],
                                     "type": "text",
                                     "content": "Comprehensive investigations into the thermal degradation of PFAS, particularly PFCAs",
@@ -26810,7 +27093,7 @@
                             "bbox": [
                                 69,
                                 688,
-                                542,
+                                541,
                                 704
                             ],
                             "spans": [
@@ -26862,7 +27145,7 @@
                                     "bbox": [
                                         375,
                                         688,
-                                        542,
+                                        541,
                                         704
                                     ],
                                     "type": "text",
@@ -26874,17 +27157,17 @@
                         {
                             "bbox": [
                                 70,
-                                702,
-                                542,
-                                718
+                                701,
+                                541,
+                                717
                             ],
                             "spans": [
                                 {
                                     "bbox": [
                                         70,
-                                        702,
-                                        542,
-                                        718
+                                        701,
+                                        541,
+                                        717
                                     ],
                                     "type": "text",
                                     "content": "dependent efficacy in their incineration. At higher temperatures, nearly complete to total",
@@ -26909,18 +27192,18 @@
                     "lines": [
                         {
                             "bbox": [
-                                419,
+                                420,
                                 728,
                                 541,
-                                743
+                                744
                             ],
                             "spans": [
                                 {
                                     "bbox": [
-                                        419,
+                                        420,
                                         728,
                                         541,
-                                        743
+                                        744
                                     ],
                                     "type": "text",
                                     "content": "Progress report_Page 22",
@@ -27486,7 +27769,7 @@
                             "bbox": [
                                 69,
                                 374,
-                                347,
+                                348,
                                 392
                             ],
                             "spans": [
@@ -27494,7 +27777,7 @@
                                     "bbox": [
                                         69,
                                         374,
-                                        347,
+                                        348,
                                         392
                                     ],
                                     "type": "text",
@@ -27660,17 +27943,17 @@
                         {
                             "bbox": [
                                 106,
-                                443,
+                                444,
                                 541,
-                                461
+                                460
                             ],
                             "spans": [
                                 {
                                     "bbox": [
                                         106,
-                                        443,
+                                        444,
                                         505,
-                                        461
+                                        460
                                     ],
                                     "type": "text",
                                     "content": "The data suggest optimal operational temperatures for incinerators should be at least",
@@ -28004,18 +28287,18 @@
                     "lines": [
                         {
                             "bbox": [
-                                107,
-                                624,
-                                541,
-                                638
+                                106,
+                                623,
+                                542,
+                                639
                             ],
                             "spans": [
                                 {
                                     "bbox": [
-                                        107,
-                                        624,
-                                        541,
-                                        638
+                                        106,
+                                        623,
+                                        542,
+                                        639
                                     ],
                                     "type": "text",
                                     "content": "This study offers new insights into the thermal degradation mechanisms of PFCs and",
@@ -28111,16 +28394,16 @@
                             "bbox": [
                                 70,
                                 693,
-                                256,
-                                707
+                                255,
+                                706
                             ],
                             "spans": [
                                 {
                                     "bbox": [
                                         70,
                                         693,
-                                        256,
-                                        707
+                                        255,
+                                        706
                                     ],
                                     "type": "text",
                                     "content": "fate of PFCs in thermal environments.",
@@ -28177,9 +28460,9 @@
             "para_blocks": [
                 {
                     "bbox": [
-                        67,
-                        72,
-                        541,
+                        70,
+                        71,
+                        539,
                         127
                     ],
                     "type": "text",
@@ -28209,18 +28492,18 @@
                         },
                         {
                             "bbox": [
-                                69,
+                                70,
                                 85,
                                 541,
-                                102
+                                101
                             ],
                             "spans": [
                                 {
                                     "bbox": [
-                                        69,
+                                        70,
                                         85,
                                         541,
-                                        102
+                                        101
                                     ],
                                     "type": "text",
                                     "content": "clarifying the thermal breakdown process. This research is also one of the first to investigate the",
@@ -28232,7 +28515,7 @@
                             "bbox": [
                                 69,
                                 99,
-                                542,
+                                541,
                                 115
                             ],
                             "spans": [
@@ -28240,7 +28523,7 @@
                                     "bbox": [
                                         69,
                                         99,
-                                        542,
+                                        541,
                                         115
                                     ],
                                     "type": "text",
@@ -28274,7 +28557,7 @@
                 },
                 {
                     "bbox": [
-                        105,
+                        107,
                         128,
                         235,
                         139
@@ -28286,7 +28569,7 @@
                         {
                             "bbox": [
                                 107,
-                                127,
+                                128,
                                 236,
                                 140
                             ],
@@ -28294,7 +28577,7 @@
                                 {
                                     "bbox": [
                                         107,
-                                        127,
+                                        128,
                                         236,
                                         140
                                     ],
@@ -28705,9 +28988,9 @@
                 },
                 {
                     "bbox": [
-                        67,
-                        283,
-                        541,
+                        70,
+                        282,
+                        539,
                         380
                     ],
                     "type": "text",
@@ -28717,7 +29000,7 @@
                         {
                             "bbox": [
                                 105,
-                                283,
+                                281,
                                 542,
                                 298
                             ],
@@ -28725,7 +29008,7 @@
                                 {
                                     "bbox": [
                                         105,
-                                        283,
+                                        281,
                                         542,
                                         298
                                     ],
@@ -28760,16 +29043,16 @@
                             "bbox": [
                                 69,
                                 309,
-                                542,
-                                325
+                                541,
+                                324
                             ],
                             "spans": [
                                 {
                                     "bbox": [
                                         69,
                                         309,
-                                        542,
-                                        325
+                                        541,
+                                        324
                                     ],
                                     "type": "text",
                                     "content": "most efficiently, efforts can be directed towards optimizing incinerators and perhaps even",
@@ -28801,7 +29084,7 @@
                         {
                             "bbox": [
                                 69,
-                                336,
+                                335,
                                 542,
                                 354
                             ],
@@ -28809,7 +29092,7 @@
                                 {
                                     "bbox": [
                                         69,
-                                        336,
+                                        335,
                                         542,
                                         354
                                     ],
@@ -28821,18 +29104,18 @@
                         },
                         {
                             "bbox": [
-                                69,
-                                351,
+                                70,
+                                352,
                                 541,
-                                366
+                                367
                             ],
                             "spans": [
                                 {
                                     "bbox": [
-                                        69,
-                                        351,
+                                        70,
+                                        352,
                                         541,
-                                        366
+                                        367
                                     ],
                                     "type": "text",
                                     "content": "the persistence of harmful pollutants in the environment, aligning with broader environmental",
@@ -28868,8 +29151,8 @@
                 {
                     "bbox": [
                         421,
-                        728,
-                        541,
+                        729,
+                        539,
                         742
                     ],
                     "type": "footer",
@@ -28880,16 +29163,16 @@
                             "bbox": [
                                 419,
                                 728,
-                                542,
-                                744
+                                541,
+                                743
                             ],
                             "spans": [
                                 {
                                     "bbox": [
                                         419,
                                         728,
-                                        542,
-                                        744
+                                        541,
+                                        743
                                     ],
                                     "type": "text",
                                     "content": "Progress report_Page 24",
@@ -31331,7 +31614,7 @@
                         },
                         {
                             "bbox": [
-                                69,
+                                70,
                                 540,
                                 541,
                                 578
@@ -31342,7 +31625,7 @@
                             "lines": [
                                 {
                                     "bbox": [
-                                        68,
+                                        67,
                                         538,
                                         541,
                                         555
@@ -31350,7 +31633,7 @@
                                     "spans": [
                                         {
                                             "bbox": [
-                                                68,
+                                                67,
                                                 538,
                                                 541,
                                                 555
@@ -31363,7 +31646,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        70,
+                                        69,
                                         552,
                                         541,
                                         567
@@ -31371,7 +31654,7 @@
                                     "spans": [
                                         {
                                             "bbox": [
-                                                70,
+                                                69,
                                                 552,
                                                 541,
                                                 567
@@ -31549,7 +31832,7 @@
                         },
                         {
                             "bbox": [
-                                69,
+                                70,
                                 641,
                                 541,
                                 679
@@ -31581,15 +31864,15 @@
                                 },
                                 {
                                     "bbox": [
-                                        69,
-                                        652,
+                                        70,
+                                        653,
                                         541,
-                                        668
+                                        667
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
-                                                69,
+                                                70,
                                                 653,
                                                 111,
                                                 666
@@ -31600,10 +31883,10 @@
                                         },
                                         {
                                             "bbox": [
-                                                121,
-                                                652,
-                                                155,
-                                                668
+                                                122,
+                                                653,
+                                                154,
+                                                667
                                             ],
                                             "type": "text",
                                             "content": "Waste",
@@ -31611,7 +31894,7 @@
                                         },
                                         {
                                             "bbox": [
-                                                166,
+                                                167,
                                                 653,
                                                 541,
                                                 667
@@ -31627,7 +31910,7 @@
                                         69,
                                         665,
                                         200,
-                                        680
+                                        681
                                     ],
                                     "spans": [
                                         {
@@ -31635,7 +31918,7 @@
                                                 69,
                                                 665,
                                                 200,
-                                                680
+                                                681
                                             ],
                                             "type": "text",
                                             "content": "(accessed April 2020). 2019.",
@@ -35051,7 +35334,7 @@
                         },
                         {
                             "bbox": [
-                                69,
+                                70,
                                 198,
                                 541,
                                 249
@@ -35072,7 +35355,7 @@
                                             "bbox": [
                                                 69,
                                                 198,
-                                                89,
+                                                90,
                                                 212
                                             ],
                                             "type": "text",
@@ -35096,7 +35379,7 @@
                                     "bbox": [
                                         69,
                                         211,
-                                        542,
+                                        541,
                                         225
                                     ],
                                     "spans": [
@@ -35104,7 +35387,7 @@
                                             "bbox": [
                                                 69,
                                                 211,
-                                                542,
+                                                541,
                                                 225
                                             ],
                                             "type": "text",
@@ -35159,8 +35442,8 @@
                         },
                         {
                             "bbox": [
-                                69,
-                                249,
+                                70,
+                                250,
                                 541,
                                 300
                             ],
@@ -35173,29 +35456,18 @@
                                         69,
                                         247,
                                         541,
-                                        263
+                                        262
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
                                                 69,
                                                 247,
-                                                94,
+                                                541,
                                                 262
                                             ],
                                             "type": "text",
-                                            "content": "75.",
-                                            "score": 1.0
-                                        },
-                                        {
-                                            "bbox": [
-                                                104,
-                                                247,
-                                                541,
-                                                263
-                                            ],
-                                            "type": "text",
-                                            "content": "Strandberg, J.; Awad, E.; Bolinius, D. J.; Yang, J.; Sandberg, J.; Bello, M. A.; Gobelius, L.; Egelrud,",
+                                            "content": "75. Strandberg, J.; Awad, E.; Bolinius, D. J.; Yang, J.; Sandberg, J.; Bello, M. A.; Gobelius, L.; Egelrud,",
                                             "score": 1.0
                                         }
                                     ]
@@ -35203,17 +35475,17 @@
                                 {
                                     "bbox": [
                                         69,
-                                        261,
+                                        260,
                                         542,
-                                        275
+                                        276
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
                                                 69,
-                                                261,
+                                                260,
                                                 542,
-                                                275
+                                                276
                                             ],
                                             "type": "text",
                                             "content": "L.; Härnwall, E., PFAS in waste residuals from Swedish incineration plants : A systematic investigation",
@@ -35224,7 +35496,7 @@
                                 {
                                     "bbox": [
                                         69,
-                                        272,
+                                        273,
                                         537,
                                         289
                                     ],
@@ -35232,7 +35504,7 @@
                                         {
                                             "bbox": [
                                                 69,
-                                                272,
+                                                273,
                                                 537,
                                                 289
                                             ],
@@ -35245,16 +35517,16 @@
                                 {
                                     "bbox": [
                                         70,
-                                        286,
-                                        454,
+                                        285,
+                                        453,
                                         300
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
                                                 70,
-                                                286,
-                                                454,
+                                                285,
+                                                453,
                                                 300
                                             ],
                                             "type": "text",
@@ -35267,7 +35539,7 @@
                         },
                         {
                             "bbox": [
-                                69,
+                                70,
                                 300,
                                 541,
                                 337
@@ -35278,18 +35550,18 @@
                             "lines": [
                                 {
                                     "bbox": [
-                                        69,
+                                        70,
                                         297,
-                                        542,
-                                        314
+                                        541,
+                                        313
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
-                                                69,
-                                                298,
+                                                70,
+                                                300,
                                                 88,
-                                                313
+                                                312
                                             ],
                                             "type": "text",
                                             "content": "76.",
@@ -35299,8 +35571,8 @@
                                             "bbox": [
                                                 105,
                                                 297,
-                                                542,
-                                                314
+                                                541,
+                                                313
                                             ],
                                             "type": "text",
                                             "content": "Wohlin, D., PFAS in waste residuals from Swedish incineration plants: A systematic investigation",
@@ -35310,18 +35582,18 @@
                                 },
                                 {
                                     "bbox": [
-                                        70,
-                                        312,
+                                        68,
+                                        311,
                                         542,
-                                        326
+                                        327
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
-                                                70,
-                                                312,
+                                                68,
+                                                311,
                                                 542,
-                                                326
+                                                327
                                             ],
                                             "type": "text",
                                             "content": "(https://www.diva-portal.org/smash/get/diva2:1473805/FULLTEXT01.pdf). IVL Svenska Milj*oinstitutet",
@@ -35331,16 +35603,16 @@
                                 },
                                 {
                                     "bbox": [
-                                        70,
-                                        323,
+                                        69,
+                                        324,
                                         490,
                                         338
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
-                                                70,
-                                                323,
+                                                69,
+                                                324,
                                                 490,
                                                 338
                                             ],
@@ -35354,7 +35626,7 @@
                         },
                         {
                             "bbox": [
-                                69,
+                                70,
                                 337,
                                 541,
                                 374
@@ -35365,17 +35637,17 @@
                             "lines": [
                                 {
                                     "bbox": [
-                                        69,
+                                        70,
                                         335,
-                                        542,
+                                        541,
                                         353
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
-                                                69,
+                                                70,
                                                 335,
-                                                542,
+                                                541,
                                                 353
                                             ],
                                             "type": "text",
@@ -35386,18 +35658,18 @@
                                 },
                                 {
                                     "bbox": [
-                                        69,
-                                        349,
+                                        70,
+                                        350,
                                         541,
-                                        365
+                                        364
                                     ],
                                     "spans": [
                                         {
                                             "bbox": [
-                                                69,
-                                                349,
+                                                70,
+                                                350,
                                                 541,
-                                                365
+                                                364
                                             ],
                                             "type": "text",
                                             "content": "(PFASs) in leachate, fly ash, and bottom ash from waste incineration plants: Implications for the",

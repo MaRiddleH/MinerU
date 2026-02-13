@@ -173,7 +173,7 @@
             284,
             661,
             771,
-            679
+            678
         ],
         "page_idx": 0
     },
@@ -190,7 +190,7 @@
     },
     {
         "type": "text",
-        "text": "Environmental Research & Education Foundation ",
+        "text": "Environmental Research &Education Foundation ",
         "bbox": [
             462,
             726,
@@ -317,13 +317,13 @@
         "list_items": [
             "INTRODUCTION .. 4 ",
             "RESULTS AND DISCUSSION.. 6 ",
-            "Chapter 1. Thermal Destruction of PFAS at Incineration Temperatures . .. 6 ",
-            "1.1. Incineration of PFCAs . 6 ",
+            "Chapter 1. Thermal Destruction of PFAS at Incineration Temperatures ...... .. 6 ",
+            "1.1. Incineration of PFCAs .. 6 ",
             "1.2. Incineration of PFSAs, PFAES, and FTS . ",
             "1.3. Incineration of PFECAs and FOSAAs .. . 10 ",
-            "1.4. Minimum incineration time required to achieve $9 9 \\%$ , $9 9 . 9 \\%$ , $9 9 . 9 9 \\%$ , and $9 9 . 9 9 9 \\%$ degradation of PFAS .... ..11 ",
+            "1.4. Minimum incineration time required to achieve $9 9 \\%$ , $9 9 . 9 \\%$ , $9 9 . 9 9 \\%$ , and $9 9 . 9 9 9 \\%$ degradation of PFAS .. .11 ",
             "Chapter 2. Thermal Degradation of PIDs. .. 14 ",
-            "2.1. Thermal Degradation and Mineralization.. . 14 ",
+            "2.1. Thermal Degradation and Mineralization..... 14 ",
             "2.2. Organofluorine Byproducts of PFCs. .. 16 ",
             "2.3. Bond Energy Distribution. ... 17 ",
             "2.4. Post-treatment of PIDs. . . 18 ",
@@ -342,7 +342,7 @@
     },
     {
         "type": "text",
-        "text": "CONCLUSIONS.. . 22 ",
+        "text": "CONCLUSIONS... 22 ",
         "bbox": [
             174,
             566,
@@ -353,7 +353,7 @@
     },
     {
         "type": "text",
-        "text": "REFERENCES CITED IN THIS REPORT . . 25 ",
+        "text": "REFERENCES CITED IN THIS REPORT . 25 ",
         "bbox": [
             174,
             590,
@@ -367,7 +367,7 @@
         "text": "Progress report_Page 3 ",
         "bbox": [
             697,
-            920,
+            919,
             883,
             938
         ],
@@ -619,28 +619,25 @@
     {
         "type": "image",
         "img_path": "images/f6e4682f3244f4e1ab0f797afbd122faf2a7a3df4420c795d76d5c2eaf00528e.jpg",
-        "image_caption": [],
-        "image_footnote": [],
+        "image_caption": [
+            "Figure 1. Degradation of PFCAs during incineration at different times. "
+        ],
+        "image_footnote": [
+            "Legend to symbols used in figures ",
+            "PFBA ",
+            "E PFPeA ",
+            "PFHpA ",
+            "4 PFHxA ",
+            "PFOA ",
+            "PFNA ",
+            "PFDA ",
+            "PFUnDA "
+        ],
         "bbox": [
             181,
             503,
             500,
             700
-        ],
-        "page_idx": 6
-    },
-    {
-        "type": "image",
-        "img_path": "images/79ad544f86aa5629bd6792d6717dbecda15c4796b249d813d00035e68903045c.jpg",
-        "image_caption": [
-            "Figure 1. Degradation of PFCAs during incineration at different times. "
-        ],
-        "image_footnote": [],
-        "bbox": [
-            563,
-            525,
-            789,
-            657
         ],
         "page_idx": 6
     },
@@ -651,7 +648,7 @@
         "bbox": [
             171,
             753,
-            581,
+            584,
             772
         ],
         "page_idx": 6
@@ -669,23 +666,23 @@
     },
     {
         "type": "footer",
-        "text": "Progress report_Page ",
+        "text": "Progress report_ ",
         "bbox": [
             696,
             919,
-            864,
+            834,
             936
         ],
         "page_idx": 6
     },
     {
         "type": "page_number",
-        "text": "7 ",
+        "text": "Page 7 ",
         "bbox": [
-            870,
-            920,
+            838,
+            919,
             882,
-            935
+            936
         ],
         "page_idx": 6
     },
@@ -932,14 +929,14 @@
     },
     {
         "type": "image",
-        "img_path": "images/4946d7f1d68557042cbe5654c41c8ae32e260e104ee3fa560b5ba3a4cd751d08.jpg",
+        "img_path": "images/d3474947bc2f88faae21b649ee1410661d79e71d43994a6cec2d6e0f7cf99115.jpg",
         "image_caption": [],
         "image_footnote": [],
         "bbox": [
             475,
             272,
             754,
-            446
+            448
         ],
         "page_idx": 10
     },
@@ -1253,27 +1250,27 @@
     },
     {
         "type": "image",
-        "img_path": "images/173df0d4aebc46cd423a724656a993919b049663bc42d60270b2fd97117ce2a6.jpg",
+        "img_path": "images/fbe5a48498dc5dc297abe5eea80e34601cfd0424f9993d182a659d02452072c0.jpg",
         "image_caption": [],
         "image_footnote": [],
         "bbox": [
             153,
             362,
             472,
-            553
+            554
         ],
         "page_idx": 14
     },
     {
         "type": "image",
-        "img_path": "images/0a6598307afa9562872e3c04400f22c9032e6cd961dcd10feb0dc269bc753497.jpg",
+        "img_path": "images/048ac676dc0d85475ce5ed3306a3f807999ccb037df80c402d2db63cd4e2930e.jpg",
         "image_caption": [],
         "image_footnote": [],
         "bbox": [
             532,
             362,
             854,
-            551
+            553
         ],
         "page_idx": 14
     },
@@ -1305,7 +1302,7 @@
     },
     {
         "type": "image",
-        "img_path": "images/37297d3be1d70ba4a1b19085963b1c59fcf4390b6cd1d69806dd458d9a632c5a.jpg",
+        "img_path": "images/be19b27db80d0d86662fd430a942e74e0e63688b8deb517e24080513f52ab7b1.jpg",
         "image_caption": [
             "Figure 5. Degradation and mineralization of four PFCs heated in air at different temperatures (200, 300, 400, 500, and $6 0 0 ~ ^ { \\circ } \\mathrm { C } )$ for $6 0 \\mathrm { { m i n } }$ in the presence of GAC. (a): C7 PFCs. (b): C8 PFCs. (c)‒(f): Mass flows of organic fluorinated degradation products, inorganic F, and remaining PFC after heating at these temperatures. "
         ],
@@ -1314,7 +1311,7 @@
             681,
             575,
             841,
-            679
+            680
         ],
         "page_idx": 14
     },
@@ -1358,7 +1355,7 @@
             862,
             919,
             882,
-            935
+            936
         ],
         "page_idx": 14
     },
@@ -1580,8 +1577,8 @@
         "bbox": [
             109,
             160,
-            883,
-            263
+            887,
+            265
         ],
         "page_idx": 17
     },
@@ -1591,7 +1588,7 @@
         "bbox": [
             109,
             265,
-            883,
+            888,
             421
         ],
         "page_idx": 17
@@ -1602,7 +1599,7 @@
         "bbox": [
             109,
             422,
-            883,
+            888,
             578
         ],
         "page_idx": 17
@@ -1613,7 +1610,7 @@
         "bbox": [
             109,
             579,
-            883,
+            887,
             856
         ],
         "page_idx": 17
@@ -1701,20 +1698,20 @@
     },
     {
         "type": "image",
-        "img_path": "images/bfc4bccb751fe2584aee08bfc5fdaa4a39aa89d07aec6423f507a247c383b668.jpg",
+        "img_path": "images/e4cfed9c6a08a88d5d6b0bec96bf55bcc0b72616bdfa48937527f0c9c07f220b.jpg",
         "image_caption": [],
         "image_footnote": [],
         "bbox": [
             127,
             563,
             446,
-            720
+            723
         ],
         "page_idx": 18
     },
     {
         "type": "image",
-        "img_path": "images/4890852094f863622b82337119820824f1e8bca6b7ea7879dadc2e1bd21276da.jpg",
+        "img_path": "images/5ca7bf6fa5f6cc2a2ead1ca295189bdfd2bdeb2ed6643e3dbb42e9229fd2b510.jpg",
         "image_caption": [
             "Figure 6. Thermal mineralization of PFCs heated in selective temperatures and durations. "
         ],
@@ -1723,7 +1720,7 @@
             467,
             563,
             785,
-            720
+            722
         ],
         "page_idx": 18
     },
@@ -1914,7 +1911,7 @@
             174,
             142,
             841,
-            160
+            159
         ],
         "page_idx": 20
     },
@@ -2045,7 +2042,7 @@
         "text": "$$\n\\mathrm {P F A S} \\left(\\mathrm {C} _ {\\mathrm {n}} \\mathrm {F} _ {2 \\mathrm {n} + 1} - \\mathrm {X}\\right) (\\mathrm {g}) \\rightarrow \\mathrm {C} _ {\\mathrm {n}} \\mathrm {F} _ {2 \\mathrm {n} + 1} \\bullet + \\mathrm {X} \\bullet \\tag {1}\n$$",
         "text_format": "latex",
         "bbox": [
-            169,
+            173,
             632,
             880,
             648
@@ -2057,10 +2054,10 @@
         "text": "$$\n\\mathrm {C} _ {\\mathrm {n}} \\mathrm {F} _ {2 \\mathrm {n} + 1} \\bullet \\rightarrow \\mathrm {R} _ {1} - \\mathrm {C F} _ {2} \\bullet + \\mathrm {R} _ {2} - \\mathrm {C F} = \\mathrm {C F} _ {2} (\\text {h o m o l y t i c c l e a v a g e}) \\tag {2}\n$$",
         "text_format": "latex",
         "bbox": [
-            169,
+            173,
             651,
-            883,
-            670
+            880,
+            669
         ],
         "page_idx": 21
     },
@@ -2069,9 +2066,9 @@
         "text": "$$\n\\mathrm {C} _ {\\mathrm {n}} \\mathrm {F} _ {2 \\mathrm {n} + 1} \\bullet \\longrightarrow \\mathrm {C} _ {\\mathrm {n} - 2} \\mathrm {F} _ {2 \\mathrm {n} - 3} - \\mathrm {C F} = \\mathrm {C F} _ {2} + \\mathrm {F} \\bullet \\quad (\\beta \\text {e l i m i n a t i o n}) \\tag {3}\n$$",
         "text_format": "latex",
         "bbox": [
-            169,
+            173,
             672,
-            883,
+            880,
             690
         ],
         "page_idx": 21
@@ -2082,7 +2079,7 @@
         "bbox": [
             109,
             691,
-            888,
+            883,
             799
         ],
         "page_idx": 21
@@ -2094,8 +2091,8 @@
         "bbox": [
             450,
             829,
-            604,
-            847
+            602,
+            845
         ],
         "page_idx": 21
     },
@@ -2104,8 +2101,8 @@
         "text": "Comprehensive investigations into the thermal degradation of PFAS, particularly PFCAs and PFSAs, across a range of temperatures $6 0 0 ^ { \\circ } \\mathrm { C }$ to $1 0 0 0 ^ { \\circ } \\mathrm { C } )$ , demonstrate a clear temperaturedependent efficacy in their incineration. At higher temperatures, nearly complete to total ",
         "bbox": [
             109,
-            852,
-            885,
+            851,
+            883,
             905
         ],
         "page_idx": 21
@@ -2224,9 +2221,9 @@
         "type": "text",
         "text": "Key findings demonstrate a C–C scission mechanism along the perfluorinated backbone, clarifying the thermal breakdown process. This research is also one of the first to investigate the catalytic thermal degradation of PFCs, indicating that GAC significantly enhances the thermal mineralization of PFCs, outperforming most commercial catalysts. ",
         "bbox": [
-            109,
-            90,
-            883,
+            114,
+            89,
+            880,
             160
         ],
         "page_idx": 23
@@ -2235,7 +2232,7 @@
         "type": "text",
         "text": "Additional results include: ",
         "bbox": [
-            171,
+            174,
             161,
             383,
             175
@@ -2263,9 +2260,9 @@
         "type": "text",
         "text": "Lastly, the research opens avenues for exploring continuous improvement in thermal treatment technologies. By understanding the specific conditions under which PFAS decompose most efficiently, efforts can be directed towards optimizing incinerators and perhaps even developing new technologies that can achieve similar results at lower temperatures or with enhanced environmental safety. This could ultimately contribute to the global efforts in reducing the persistence of harmful pollutants in the environment, aligning with broader environmental protection and sustainability goals. ",
         "bbox": [
-            109,
-            357,
-            883,
+            114,
+            356,
+            880,
             479
         ],
         "page_idx": 23
@@ -2275,8 +2272,8 @@
         "text": "Progress report_Page 24 ",
         "bbox": [
             687,
-            919,
-            883,
+            920,
+            880,
             936
         ],
         "page_idx": 23

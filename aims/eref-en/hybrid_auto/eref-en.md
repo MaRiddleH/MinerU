@@ -1,6 +1,6 @@
-# Effective and Complete Decomposition of Per- and Polyfluoroalkyl Substances and Byproducts in Incineration
+# Effective and Complete Decomposition of Per- and Polyfluoroalkyl Substances and Byproducts in Incineration不会
 
-Feng ‘Frank’ Xiao, Ph.D., P.E., M.ASCE
+Feng ‘Frank’ Xiao, Ph.D., P.E., M.ASCE不会
 
 Associate Professor
 
@@ -32,7 +32,7 @@ Environmental Research and Education Foundation
 
 EREF
 
-Environmental Research & Education Foundation
+Environmental Research &Education Foundation
 
 www.erefdn.org
 
@@ -52,13 +52,13 @@ In conclusion, the report highlights the potential applications of its findings 
 
 INTRODUCTION .. 4   
 RESULTS AND DISCUSSION.. 6   
-Chapter 1. Thermal Destruction of PFAS at Incineration Temperatures . .. 6   
-1.1. Incineration of PFCAs . 6   
+Chapter 1. Thermal Destruction of PFAS at Incineration Temperatures ...... .. 6   
+1.1. Incineration of PFCAs .. 6   
 1.2. Incineration of PFSAs, PFAES, and FTS .   
 1.3. Incineration of PFECAs and FOSAAs .. . 10   
-1.4. Minimum incineration time required to achieve $9 9 \%$ , $9 9 . 9 \%$ , $9 9 . 9 9 \%$ , and $9 9 . 9 9 9 \%$ degradation of PFAS .... ..11   
+1.4. Minimum incineration time required to achieve $9 9 \%$ , $9 9 . 9 \%$ , $9 9 . 9 9 \%$ , and $9 9 . 9 9 9 \%$ degradation of PFAS .. .11   
 Chapter 2. Thermal Degradation of PIDs. .. 14   
-2.1. Thermal Degradation and Mineralization.. . 14   
+2.1. Thermal Degradation and Mineralization..... 14   
 2.2. Organofluorine Byproducts of PFCs. .. 16   
 2.3. Bond Energy Distribution. ... 17   
 2.4. Post-treatment of PIDs. . . 18   
@@ -67,9 +67,9 @@ Chapter 3. Nondestructive detection of PIDs of PFAS.. . 20
 3.2. Thermal Degradation Products of PFOA Investigated by TGA-FTIR. .. .. 21   
 3.3. Thermal Degradation Products of K-PFOS Investigated by TGA-FTIR. .... .. 21
 
-CONCLUSIONS.. . 22
+CONCLUSIONS... 22
 
-REFERENCES CITED IN THIS REPORT . . 25
+REFERENCES CITED IN THIS REPORT . 25
 
 # INTRODUCTION
 
@@ -107,16 +107,23 @@ When the temperature was raised to $7 0 0 ^ { \circ } \mathrm { C }$ , a markedl
 
 ![](images/6d20fb13f085e803ec12481e4f9b736a3eebdaff5ba0f3e00920837fabfd6f5d.jpg)
 
-![](images/f6e4682f3244f4e1ab0f797afbd122faf2a7a3df4420c795d76d5c2eaf00528e.jpg)
-
-![](images/79ad544f86aa5629bd6792d6717dbecda15c4796b249d813d00035e68903045c.jpg)  
-Figure 1. Degradation of PFCAs during incineration at different times.
+Figure 1. Degradation of PFCAs during incineration at different times.   
+![](images/f6e4682f3244f4e1ab0f797afbd122faf2a7a3df4420c795d76d5c2eaf00528e.jpg)  
+Legend to symbols used in figures   
+PFBA   
+E PFPeA   
+PFHpA   
+4 PFHxA   
+PFOA   
+PFNA   
+PFDA   
+PFUnDA
 
 # 1.2. Incineration of PFSAs, PFAES, and FTS
 
 The data in Figure 2 summarize the degradation rates of PFSAs, PFBS (C4), PFHxS (C6), and PFOS (C8), across a temperature range of $6 0 0 ^ { \circ } \mathrm { C }$ to $1 0 0 0 ^ { \circ } \mathrm { C }$ during incineration, measured over time. At $6 0 0 ~ ^ { \circ } \mathrm { C }$ , the degradation rates were noticeably slower than at higher temperatures. Initially, the degradation percentages after 2 min for PFBS, PFOS, and PFHxS were $5 . 6 \%$ , $1 1 \%$ , and $1 0 . 2 \%$ respectively. As time progressed, the degradation rates increased gradually, with PFOS showing a notably higher rate of $7 0 . 9 \%$ after 20 min. However, even after $3 0 ~ \mathrm { { m i n } }$ , none of the compounds had reached complete degradation $( \ge 9 9 . 9 9 \%$ or non-detectable residuals), which
 
-signifies the high thermal stability of these compounds at this temperature. At $7 0 0 ~ ^ { \circ } \mathrm { C }$ , all compounds showed a much higher degradation rate. In just 2 min, PFBS, PFOS, and PFHxS degradation percentages were $2 5 . 3 \%$ , $1 5 . 6 \%$ , and $3 5 . 6 \%$ , respectively, showing a substantial increase compared to the results at $6 0 0 ^ { \circ } \mathrm { C }$ . At the 10-min mark, PFHxS had already nearly reached complete degradation at $9 8 . 5 \%$ .
+signifies the high thermal stability of these compounds at this temperature. At $7 0 0 ~ ^ { \circ } \mathrm { C }$ , all compounds showed a much higher degradation rate. In just 2 min, PFBS, PFOS, and PFHxS degradation percentages were $2 5 . 3 \%$ , $1 5 . 6 \%$ , and $3 5 . 6 \%$ , respectively, showing a substantial increase compared to the results at $600^{\circ}\mathrm{C}$ . At the 10-min mark, PFHxS had already nearly reached complete degradation at $9 8 . 5 \%$ .
 
 ![](images/83a2a2a99ba1a68b01b9a1fe919ca99e3e64d70ef8ee9d0231503317575cfadb.jpg)
 
@@ -151,7 +158,7 @@ ADONA and HFPO-DA show a slight increase in degradation rate at this temperature
 
 ![](images/0a17e811f410304066aa1df89c7ac18e0b1d41f4421c6fa3b267e7fdfbf755c9.jpg)
 
-![](images/4946d7f1d68557042cbe5654c41c8ae32e260e104ee3fa560b5ba3a4cd751d08.jpg)
+![](images/d3474947bc2f88faae21b649ee1410661d79e71d43994a6cec2d6e0f7cf99115.jpg)
 
 ![](images/5fa074c3d1abd40e3da3c7a8356b00814ee0dd6f19a27b461e7546f1e056d24a.jpg)
 
@@ -166,11 +173,23 @@ demonstrated a slower degradation rate at $6 0 0 ^ { \circ } \mathrm { C }$ , re
 
 Table 1. Minimum incineration time (min) to achieve $9 9 \%$ (2-log), $9 9 . 9 \%$ (3-log), $9 9 . 9 9 \%$ (4-log), and $9 9 . 9 9 9 \%$ (5-log) degradation of PFCAs, PFSAs, and PFESAs.   
 
-<table><tr><td>Temperature (°C)</td><td>PFCA 99%</td><td>PFCA 99.9%</td><td>PFCA 99.99%</td><td>PFCA 99.999%</td><td>PFSA 99%</td><td>PFSA 99.9%</td><td>PFSA 99.99%</td><td>PFESA 99.999%</td><td>PFESA 99%</td><td>PFESA 99.99%</td><td>PFESA 99.999%</td></tr><tr><td>600</td><td>15</td><td>20</td><td>20</td><td>30</td><td>&gt;30</td><td>&gt;30</td><td>&gt;30</td><td>&gt;30</td><td>&gt;30</td><td>&gt;30</td><td>&gt;30</td></tr><tr><td>700</td><td>10</td><td>15</td><td>20</td><td>30</td><td>20</td><td>20</td><td>20</td><td>30</td><td>15</td><td>20</td><td>20</td></tr><tr><td>800</td><td>5</td><td>5</td><td>10</td><td>15</td><td>5-10</td><td>10</td><td>15</td><td>20</td><td>5-10</td><td>10</td><td>15</td></tr><tr><td>900</td><td>&lt;2</td><td>&lt;5</td><td>5</td><td>5</td><td>2</td><td>5</td><td>5</td><td>5</td><td>2</td><td>&lt;5</td><td>5</td></tr><tr><td>1000</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td></tr></table>
+| Temperature (°C) | PFCA 99% | PFCA 99.9% | PFCA 99.99% | PFCA 99.999% | PFSA 99% | PFSA 99.9% | PFSA 99.99% | PFESA 99.999% | PFESA 99% | PFESA 99.99% | PFESA 99.999% |
+| ---------------- | -------- | ---------- | ----------- | ------------ | -------- | ---------- | ----------- | ------------- | --------- | ------------ | ------------- |
+| 600              | 15       | 20         | 20          | 30           | >30      | >30        | >30         | >30           | >30       | >30          | >30           |
+| 700              | 10       | 15         | 20          | 30           | 20       | 20         | 20          | 30            | 15        | 20           | 20            |
+| 800              | 5        | 5          | 10          | 15           | 5-10     | 10         | 15          | 20            | 5-10      | 10           | 15            |
+| 900              | <2       | <5         | 5           | 5            | 2        | 5          | 5           | 5             | 2         | <5           | 5             |
+| 1000             | <2       | <2         | <2          | <2           | <2       | <2         | <2          | <2            | <2        | <2           | <2            |
 
 Table 2. Minimum incineration time (min) to achieve $9 9 \%$ (2-log), $9 9 . 9 \%$ (3-log), $9 9 . 9 9 \%$ (4-log), and $9 9 . 9 9 9 \%$ (5-log) degradation of FTS, PFECAs, and FOSSAs.   
 
-<table><tr><td>Temperature (℃)</td><td>FTS 99%</td><td>FTS 99.9%</td><td>FTS 99.99%</td><td>FTS 99.999%</td><td>PFECAsa 99%</td><td>PFECAsa 99.9%</td><td>PFECAsa 99.99%</td><td>PFECAsa 99.999%</td><td>FOSSAs 99%</td><td>FOSSAs 99.9%</td><td>FOSSAs 99.99%</td><td>FOSSAs 99.999%</td></tr><tr><td>600</td><td>&gt;30</td><td>&gt;30</td><td>&gt;30</td><td>&gt;30</td><td>10-15</td><td>15</td><td>15</td><td>15</td><td>15</td><td>15</td><td>15</td><td>15</td></tr><tr><td>700</td><td>15-20</td><td>20</td><td>20</td><td>30</td><td>10</td><td>10</td><td>15</td><td>15</td><td>10</td><td>10</td><td>15</td><td>15</td></tr><tr><td>800</td><td>5-10</td><td>10</td><td>15</td><td>15</td><td>2</td><td>2</td><td>2-5</td><td>2-5</td><td>5</td><td>10</td><td>10</td><td>10</td></tr><tr><td>900</td><td>2</td><td>5</td><td>5</td><td>5</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;5</td><td>&lt;5</td><td>&lt;5</td><td>&lt;5</td></tr><tr><td>1000</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td><td>&lt;2</td></tr></table>
+| Temperature (℃) | FTS 99% | FTS 99.9% | FTS 99.99% | FTS 99.999% | PFECAsa 99% | PFECAsa 99.9% | PFECAsa 99.99% | PFECAsa 99.999% | FOSSAs 99% | FOSSAs 99.9% | FOSSAs 99.99% | FOSSAs 99.999% |
+| --------------- | ------- | --------- | ---------- | ----------- | ----------- | ------------- | -------------- | --------------- | ---------- | ------------ | ------------- | -------------- |
+| 600             | >30     | >30       | >30        | >30         | 10-15       | 15            | 15             | 15              | 15         | 15           | 15            | 15             |
+| 700             | 15-20   | 20        | 20         | 30          | 10          | 10            | 15             | 15              | 10         | 10           | 15            | 15             |
+| 800             | 5-10    | 10        | 15         | 15          | 2           | 2             | 2-5            | 2-5             | 5          | 10           | 10            | 10             |
+| 900             | 2       | 5         | 5          | 5           | <2          | <2            | <2             | <2              | <5         | <5           | <5            | <5             |
+| 1000            | <2      | <2        | <2         | <2          | <2          | <2            | <2             | <2              | <2         | <2           | <2            | <2             |
 
 Notes: ">" means that the actual time required is more than the value given. "<" means that the actual time required is less than the value given. "X‒Y" means the actual time required falls within this range.
 
@@ -201,15 +220,15 @@ Further supporting these observations, Khan et al. explored the thermal minerali
 
 The presence of GAC significantly enhanced the degradation efficiency of $\mathrm { C } _ { 7 } \mathrm { F } _ { 1 4 }$ , achieving $100 \%$ at $2 0 0 ^ { \circ } \mathrm { C }$ (Figure 5a), reflecting a $4 2 . 7 \%$ degradation enhancement. Additionally, at $5 0 0 ^ { \circ } \mathrm { C }$ , the F yield for $\mathrm { C } \mathrm { 7 F } _ { 1 4 }$ increased to $32 \mathrm { m o l } \%$ , representing an $8 \%$ increase in comparison with the no-GAC scenario. Similarly, as highlighted in Figure 5b, for $\mathrm { C } _ { 8 } \mathrm { F } _ { 1 6 }$ , the presence of GAC resulted in a degradation efficiency of $9 9 . 6 \%$ at $2 0 0 ~ ^ { \circ } \mathrm { C }$ , marking a $4 0 . 8 \%$ enhancement, and the F yield rose to $4 1 . 8 \ : \mathrm { m o l \% }$ , indicating a $1 4 . 1 \%$ increase at $5 0 0 ^ { \circ } \mathrm { C }$ .
 
-![](images/173df0d4aebc46cd423a724656a993919b049663bc42d60270b2fd97117ce2a6.jpg)
+![](images/fbe5a48498dc5dc297abe5eea80e34601cfd0424f9993d182a659d02452072c0.jpg)
 
-![](images/0a6598307afa9562872e3c04400f22c9032e6cd961dcd10feb0dc269bc753497.jpg)
+![](images/048ac676dc0d85475ce5ed3306a3f807999ccb037df80c402d2db63cd4e2930e.jpg)
 
 ![](images/4a3f1aac390c8932c2c5086798637547181046dbd320e293a3d05be20ad9a7bc.jpg)
 
 ![](images/aa97db907e7e93d6d13b77dbef66bc2a3f2e46852217777e850e3dd679d243c5.jpg)
 
-![](images/37297d3be1d70ba4a1b19085963b1c59fcf4390b6cd1d69806dd458d9a632c5a.jpg)  
+![](images/be19b27db80d0d86662fd430a942e74e0e63688b8deb517e24080513f52ab7b1.jpg)  
 Figure 5. Degradation and mineralization of four PFCs heated in air at different temperatures (200, 300, 400, 500, and $6 0 0 ~ ^ { \circ } \mathrm { C } )$ for $6 0 \mathrm { { m i n } }$ in the presence of GAC. (a): C7 PFCs. (b): C8 PFCs. (c)‒(f): Mass flows of organic fluorinated degradation products, inorganic F, and remaining PFC after heating at these temperatures.
 
 On the other hand, the effect of GAC on the thermal degradation of saturated PFCs is not evident. In fact, in some cases, GAC appears to have an inhibitory effect on the degradation of saturated PFCs, leading to a around $20 \%$ drop in degradation efficiency compared to scenarios without GAC (Figures 4 and 5).
@@ -270,9 +289,9 @@ Note that the total F yield (Eqs 3 and 4) generally aligns with the relative F y
 
 ![](images/49da050819c3c38c68415a4d245b878e5b9fdd04f92e3e64ef14475e5f4c6e92.jpg)
 
-![](images/bfc4bccb751fe2584aee08bfc5fdaa4a39aa89d07aec6423f507a247c383b668.jpg)
+![](images/e4cfed9c6a08a88d5d6b0bec96bf55bcc0b72616bdfa48937527f0c9c07f220b.jpg)
 
-![](images/4890852094f863622b82337119820824f1e8bca6b7ea7879dadc2e1bd21276da.jpg)  
+![](images/5ca7bf6fa5f6cc2a2ead1ca295189bdfd2bdeb2ed6643e3dbb42e9229fd2b510.jpg)  
 Figure 6. Thermal mineralization of PFCs heated in selective temperatures and durations.
 
 Figure 6 shows the time-dependent effects of GAC on the mineralization of these PFCs (Figure 6). At $2 0 0 ^ { \circ } \mathrm { C }$ , the yield of F from $\mathrm { C } _ { 7 } \mathrm { F } _ { 1 4 }$ after 10-min heating was much higher $( 4 . 5 \mathrm { m o l \% } )$ compared to the absence of GAC $( < 0 . 1 \mathrm { m o l \% } )$ . This trend continued at $6 0 \mathrm { { m i n } }$ , where the yield of F with GAC was $3 . 6 \mathrm { m o l \% }$ , compared to $0 . 2 \mathrm { m o l } \%$ without GAC. At higher temperatures $2 5 0 ^ { \circ } \mathrm { C }$ and $3 0 0 ~ ^ { \circ } \mathrm { C } )$ , the data shows a similar pattern where GAC presence enhanced the mineralization substantially. For instance, at $3 0 0 ~ ^ { \circ } \mathrm { C }$ , the yield of F with GAC was $1 0 . 0 \ \mathrm { m o l \% }$ after 10 min and peaked at $2 1 . 0 \mathrm { m o l \% }$ at $6 0 \mathrm { { m i n } }$ , whereas without GAC, the yield of F was $8 . 0 \mathrm { m o l } \%$ after 60 min

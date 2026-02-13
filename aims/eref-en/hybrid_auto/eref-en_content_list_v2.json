@@ -271,7 +271,7 @@
                 284,
                 661,
                 771,
-                679
+                678
             ]
         },
         {
@@ -297,7 +297,7 @@
                 "paragraph_content": [
                     {
                         "type": "text",
-                        "content": "Environmental Research & Education Foundation "
+                        "content": "Environmental Research &Education Foundation "
                     }
                 ]
             },
@@ -560,7 +560,7 @@
                         "item_content": [
                             {
                                 "type": "text",
-                                "content": "Chapter 1. Thermal Destruction of PFAS at Incineration Temperatures . .. 6 "
+                                "content": "Chapter 1. Thermal Destruction of PFAS at Incineration Temperatures ...... .. 6 "
                             }
                         ]
                     },
@@ -569,7 +569,7 @@
                         "item_content": [
                             {
                                 "type": "text",
-                                "content": "1.1. Incineration of PFCAs . 6 "
+                                "content": "1.1. Incineration of PFCAs .. 6 "
                             }
                         ]
                     },
@@ -628,7 +628,7 @@
                             },
                             {
                                 "type": "text",
-                                "content": "degradation of PFAS .... ..11 "
+                                "content": "degradation of PFAS .. .11 "
                             }
                         ]
                     },
@@ -646,7 +646,7 @@
                         "item_content": [
                             {
                                 "type": "text",
-                                "content": "2.1. Thermal Degradation and Mineralization.. . 14 "
+                                "content": "2.1. Thermal Degradation and Mineralization..... 14 "
                             }
                         ]
                     },
@@ -728,7 +728,7 @@
                 "paragraph_content": [
                     {
                         "type": "text",
-                        "content": "CONCLUSIONS.. . 22 "
+                        "content": "CONCLUSIONS... 22 "
                     }
                 ]
             },
@@ -745,7 +745,7 @@
                 "paragraph_content": [
                     {
                         "type": "text",
-                        "content": "REFERENCES CITED IN THIS REPORT . . 25 "
+                        "content": "REFERENCES CITED IN THIS REPORT . 25 "
                     }
                 ]
             },
@@ -768,7 +768,7 @@
             },
             "bbox": [
                 697,
-                920,
+                919,
                 883,
                 938
             ]
@@ -1520,35 +1520,56 @@
                 "image_source": {
                     "path": "images/f6e4682f3244f4e1ab0f797afbd122faf2a7a3df4420c795d76d5c2eaf00528e.jpg"
                 },
-                "image_caption": [],
-                "image_footnote": []
-            },
-            "bbox": [
-                181,
-                503,
-                500,
-                700
-            ]
-        },
-        {
-            "type": "image",
-            "content": {
-                "image_source": {
-                    "path": "images/79ad544f86aa5629bd6792d6717dbecda15c4796b249d813d00035e68903045c.jpg"
-                },
                 "image_caption": [
                     {
                         "type": "text",
                         "content": "Figure 1. Degradation of PFCAs during incineration at different times. "
                     }
                 ],
-                "image_footnote": []
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Legend to symbols used in figures "
+                    },
+                    {
+                        "type": "text",
+                        "content": "PFBA "
+                    },
+                    {
+                        "type": "text",
+                        "content": "E PFPeA "
+                    },
+                    {
+                        "type": "text",
+                        "content": "PFHpA "
+                    },
+                    {
+                        "type": "text",
+                        "content": "4 PFHxA "
+                    },
+                    {
+                        "type": "text",
+                        "content": "PFOA "
+                    },
+                    {
+                        "type": "text",
+                        "content": "PFNA "
+                    },
+                    {
+                        "type": "text",
+                        "content": "PFDA "
+                    },
+                    {
+                        "type": "text",
+                        "content": "PFUnDA "
+                    }
+                ]
             },
             "bbox": [
-                563,
-                525,
-                789,
-                657
+                181,
+                503,
+                500,
+                700
             ]
         },
         {
@@ -1565,7 +1586,7 @@
             "bbox": [
                 171,
                 753,
-                581,
+                584,
                 772
             ]
         },
@@ -1664,14 +1685,14 @@
                 "page_footer_content": [
                     {
                         "type": "text",
-                        "content": "Progress report_Page "
+                        "content": "Progress report_ "
                     }
                 ]
             },
             "bbox": [
                 696,
                 919,
-                864,
+                834,
                 936
             ]
         },
@@ -1681,15 +1702,15 @@
                 "page_number_content": [
                     {
                         "type": "text",
-                        "content": "7 "
+                        "content": "Page 7 "
                     }
                 ]
             },
             "bbox": [
-                870,
-                920,
+                838,
+                919,
                 882,
-                935
+                936
             ]
         }
     ],
@@ -2505,7 +2526,7 @@
             "type": "image",
             "content": {
                 "image_source": {
-                    "path": "images/4946d7f1d68557042cbe5654c41c8ae32e260e104ee3fa560b5ba3a4cd751d08.jpg"
+                    "path": "images/d3474947bc2f88faae21b649ee1410661d79e71d43994a6cec2d6e0f7cf99115.jpg"
                 },
                 "image_caption": [],
                 "image_footnote": []
@@ -2514,7 +2535,7 @@
                 475,
                 272,
                 754,
-                446
+                448
             ]
         },
         {
@@ -3555,7 +3576,7 @@
             "type": "image",
             "content": {
                 "image_source": {
-                    "path": "images/173df0d4aebc46cd423a724656a993919b049663bc42d60270b2fd97117ce2a6.jpg"
+                    "path": "images/fbe5a48498dc5dc297abe5eea80e34601cfd0424f9993d182a659d02452072c0.jpg"
                 },
                 "image_caption": [],
                 "image_footnote": []
@@ -3564,14 +3585,14 @@
                 153,
                 362,
                 472,
-                553
+                554
             ]
         },
         {
             "type": "image",
             "content": {
                 "image_source": {
-                    "path": "images/0a6598307afa9562872e3c04400f22c9032e6cd961dcd10feb0dc269bc753497.jpg"
+                    "path": "images/048ac676dc0d85475ce5ed3306a3f807999ccb037df80c402d2db63cd4e2930e.jpg"
                 },
                 "image_caption": [],
                 "image_footnote": []
@@ -3580,7 +3601,7 @@
                 532,
                 362,
                 854,
-                551
+                553
             ]
         },
         {
@@ -3619,7 +3640,7 @@
             "type": "image",
             "content": {
                 "image_source": {
-                    "path": "images/37297d3be1d70ba4a1b19085963b1c59fcf4390b6cd1d69806dd458d9a632c5a.jpg"
+                    "path": "images/be19b27db80d0d86662fd430a942e74e0e63688b8deb517e24080513f52ab7b1.jpg"
                 },
                 "image_caption": [
                     {
@@ -3649,7 +3670,7 @@
                 681,
                 575,
                 841,
-                679
+                680
             ]
         },
         {
@@ -3781,7 +3802,7 @@
                 862,
                 919,
                 882,
-                935
+                936
             ]
         }
     ],
@@ -4457,8 +4478,8 @@
             "bbox": [
                 109,
                 160,
-                883,
-                263
+                887,
+                265
             ]
         },
         {
@@ -4538,7 +4559,7 @@
             "bbox": [
                 109,
                 265,
-                883,
+                888,
                 421
             ]
         },
@@ -4563,7 +4584,7 @@
             "bbox": [
                 109,
                 422,
-                883,
+                888,
                 578
             ]
         },
@@ -4580,7 +4601,7 @@
             "bbox": [
                 109,
                 579,
-                883,
+                887,
                 856
             ]
         },
@@ -4795,7 +4816,7 @@
             "type": "image",
             "content": {
                 "image_source": {
-                    "path": "images/bfc4bccb751fe2584aee08bfc5fdaa4a39aa89d07aec6423f507a247c383b668.jpg"
+                    "path": "images/e4cfed9c6a08a88d5d6b0bec96bf55bcc0b72616bdfa48937527f0c9c07f220b.jpg"
                 },
                 "image_caption": [],
                 "image_footnote": []
@@ -4804,14 +4825,14 @@
                 127,
                 563,
                 446,
-                720
+                723
             ]
         },
         {
             "type": "image",
             "content": {
                 "image_source": {
-                    "path": "images/4890852094f863622b82337119820824f1e8bca6b7ea7879dadc2e1bd21276da.jpg"
+                    "path": "images/5ca7bf6fa5f6cc2a2ead1ca295189bdfd2bdeb2ed6643e3dbb42e9229fd2b510.jpg"
                 },
                 "image_caption": [
                     {
@@ -4825,7 +4846,7 @@
                 467,
                 563,
                 785,
-                720
+                722
             ]
         },
         {
@@ -5622,7 +5643,7 @@
                 174,
                 142,
                 841,
-                160
+                159
             ]
         },
         {
@@ -6377,11 +6398,11 @@
                 "math_content": "\\mathrm {P F A S} \\left(\\mathrm {C} _ {\\mathrm {n}} \\mathrm {F} _ {2 \\mathrm {n} + 1} - \\mathrm {X}\\right) (\\mathrm {g}) \\rightarrow \\mathrm {C} _ {\\mathrm {n}} \\mathrm {F} _ {2 \\mathrm {n} + 1} \\bullet + \\mathrm {X} \\bullet \\tag {1}",
                 "math_type": "latex",
                 "image_source": {
-                    "path": "images/745a6a2db47a7ebecbc053a4cd1701c1487b7e82542284c211546ced08d28093.jpg"
+                    "path": "images/04ad5734b176e8fcfadfc810b758697f1195a3739512544fcd815a77f933ca9c.jpg"
                 }
             },
             "bbox": [
-                169,
+                173,
                 632,
                 880,
                 648
@@ -6393,14 +6414,14 @@
                 "math_content": "\\mathrm {C} _ {\\mathrm {n}} \\mathrm {F} _ {2 \\mathrm {n} + 1} \\bullet \\rightarrow \\mathrm {R} _ {1} - \\mathrm {C F} _ {2} \\bullet + \\mathrm {R} _ {2} - \\mathrm {C F} = \\mathrm {C F} _ {2} (\\text {h o m o l y t i c c l e a v a g e}) \\tag {2}",
                 "math_type": "latex",
                 "image_source": {
-                    "path": "images/69add8814ce356d83e52e408f9cf9012c53d8bf844e56af6499f24153cac7982.jpg"
+                    "path": "images/31e30ffa32516a7bbb154907c2a2f744e965c656f1133e88d8994c52f9f4acff.jpg"
                 }
             },
             "bbox": [
-                169,
+                173,
                 651,
-                883,
-                670
+                880,
+                669
             ]
         },
         {
@@ -6409,13 +6430,13 @@
                 "math_content": "\\mathrm {C} _ {\\mathrm {n}} \\mathrm {F} _ {2 \\mathrm {n} + 1} \\bullet \\longrightarrow \\mathrm {C} _ {\\mathrm {n} - 2} \\mathrm {F} _ {2 \\mathrm {n} - 3} - \\mathrm {C F} = \\mathrm {C F} _ {2} + \\mathrm {F} \\bullet \\quad (\\beta \\text {e l i m i n a t i o n}) \\tag {3}",
                 "math_type": "latex",
                 "image_source": {
-                    "path": "images/2d503ec8b2aec3cbd6c8fa02d629c7aded6678705758d466de58f45d4deccf7b.jpg"
+                    "path": "images/bf5542a3a666d933321cf0d60bf3dc5dd92c8a93df7142c0ab2dc169c05f954b.jpg"
                 }
             },
             "bbox": [
-                169,
+                173,
                 672,
-                883,
+                880,
                 690
             ]
         },
@@ -6496,7 +6517,7 @@
             "bbox": [
                 109,
                 691,
-                888,
+                883,
                 799
             ]
         },
@@ -6514,8 +6535,8 @@
             "bbox": [
                 450,
                 829,
-                604,
-                847
+                602,
+                845
             ]
         },
         {
@@ -6546,8 +6567,8 @@
             },
             "bbox": [
                 109,
-                852,
-                885,
+                851,
+                883,
                 905
             ]
         },
@@ -6784,9 +6805,9 @@
                 ]
             },
             "bbox": [
-                109,
-                90,
-                883,
+                114,
+                89,
+                880,
                 160
             ]
         },
@@ -6801,7 +6822,7 @@
                 ]
             },
             "bbox": [
-                171,
+                174,
                 161,
                 383,
                 175
@@ -6916,9 +6937,9 @@
                 ]
             },
             "bbox": [
-                109,
-                357,
-                883,
+                114,
+                356,
+                880,
                 479
             ]
         },
@@ -6934,8 +6955,8 @@
             },
             "bbox": [
                 687,
-                919,
-                883,
+                920,
+                880,
                 936
             ]
         }
